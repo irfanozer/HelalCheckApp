@@ -1121,7 +1121,7 @@ final List<Map<String, String>> products = [
     'name': 'Milka',
     'category': 'Chocolate',
     'description':
-        'Milkalarin cogu helal / Milka çikolataları sorulmuştu. Ross veya bazı Asya marketlerinde bulunabiliyormuş. Milka, Amerika’da üretilmediği için ve hangi çeşitlerine kimin nerede ulaşacağını bilmediğim için daha kestirme bir yol buldum🙂. HalalCheck uygulaması var. @halalcheck.official tarafından Almanya bazlı olarak firmalarla iletişime geçip hayvansal kökenli katkıları ve alkol varlığını araştırıyorlar. Uygulamanın Türkçe dil seçeneği de var. Milka’yı veri tabanında aratınca uzun bir liste çıkıyor. Büyük bir kısmı henüz sorulmamış fakat yardımcı olacağını düşünüyorum 👍🏻.#amerikadaçikolata #amerikadaatıştırmalık #amerikadayemek #amerikadayasam'
+        'Milkalarin Neredeyse Hepsi helal / Milka çikolataları sorulmuştu. Ross veya bazı Asya marketlerinde bulunabiliyormuş. Milka, Amerika’da üretilmediği için ve hangi çeşitlerine kimin nerede ulaşacağını bilmediğim için daha kestirme bir yol buldum🙂. HalalCheck uygulaması var. @halalcheck.official tarafından Almanya bazlı olarak firmalarla iletişime geçip hayvansal kökenli katkıları ve alkol varlığını araştırıyorlar. Uygulamanın Türkçe dil seçeneği de var. Milka’yı veri tabanında aratınca uzun bir liste çıkıyor. Büyük bir kısmı henüz sorulmamış fakat yardımcı olacağını düşünüyorum 👍🏻.#amerikadaçikolata #amerikadaatıştırmalık #amerikadayemek #amerikadayasam'
   },
   {'name': '', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
