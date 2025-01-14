@@ -1123,7 +1123,12 @@ final List<Map<String, String>> products = [
     'description':
         'Milkalarin Neredeyse Hepsi helal / Milka çikolataları sorulmuştu. Ross veya bazı Asya marketlerinde bulunabiliyormuş. Milka, Amerika’da üretilmediği için ve hangi çeşitlerine kimin nerede ulaşacağını bilmediğim için daha kestirme bir yol buldum🙂. HalalCheck uygulaması var. @halalcheck.official tarafından Almanya bazlı olarak firmalarla iletişime geçip hayvansal kökenli katkıları ve alkol varlığını araştırıyorlar. Uygulamanın Türkçe dil seçeneği de var. Milka’yı veri tabanında aratınca uzun bir liste çıkıyor. Büyük bir kısmı henüz sorulmamış fakat yardımcı olacağını düşünüyorum 👍🏻.#amerikadaçikolata #amerikadaatıştırmalık #amerikadayemek #amerikadayasam'
   },
-  {'name': '', 'category': 'Food', 'description': ''},
+  {
+    'name': 'Cannoly Shells',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Supremo Italiano /İtalyanların meşhur Cannoli tatlısını gördüm bir gün. Denemek istedim. Hamurları kızartırken sarıldıkları silindirik metal çubuklardan almak gerekiyordu. Kaldı sonra. Bir gün hazırına denk geldim. İç dolgusunda vanilla extract vardı. İyiden iyiye pes etmiştim ki Restaurant Depot’da bu hazır kızartılmışlara denk geldim. Amazon’da çok pahalı. İçine muhallebi, dondurma doldurulabilir. Sunum olarak çok hoşuma gitti. Bilmeyenler için de fikir olsun istedim. Kosher.#amerikadapasta #amerikadakrema #amerikadaresdepot #amerikadatatlı #amerikadacannoli '
+  },
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
