@@ -317,7 +317,7 @@ final List<Map<String, String>> products = [
         'Belgioioso Cheese / Peynir postları sıraya dizildi 😅. BelGioioso marka peynirleri biliyorsunuzdur. Birçok markette denk geliyorum ben. Hayvansal enzimi olmayan ve kosherli olan türlerini sayfalarında paylaşmışlar. Öğrendim, paylaşmış olayım🧀. 3. Fotoğraftaki bir detay dikkatinizi çekti mi bilmiyorum. Kosher olmasının bir anlamı enzimin bitkisel veya microbial olması. Diğer anlamıysa mayanın süte karıştırılması sırasında hahamın orada bulunması. Biz hahamla ilgilenmediğimiz için enzim/rennet microbial/vegetable olsa da yeterli. Kosher olmasa da oluyor işte bu noktada. .#amerikadawalmart #amerikadacostco #amerikadapeynir #amerikadakosher #amerikadakahvaltılık #amerikadaresdepot #amerikadatarget #amerikadatazemozzarella #amerikadabelgioioso #amerikadamozzarella'
   },
   {
-    'name': 'Fontina',
+    'name': 'Fontina Cheese',
     'category': 'Dairy Products',
     'description':
         'Belgioioso Cheese / Peynir postları sıraya dizildi 😅. BelGioioso marka peynirleri biliyorsunuzdur. Birçok markette denk geliyorum ben. Hayvansal enzimi olmayan ve kosherli olan türlerini sayfalarında paylaşmışlar. Öğrendim, paylaşmış olayım🧀. 3. Fotoğraftaki bir detay dikkatinizi çekti mi bilmiyorum. Kosher olmasının bir anlamı enzimin bitkisel veya microbial olması. Diğer anlamıysa mayanın süte karıştırılması sırasında hahamın orada bulunması. Biz hahamla ilgilenmediğimiz için enzim/rennet microbial/vegetable olsa da yeterli. Kosher olmasa da oluyor işte bu noktada. .#amerikadawalmart #amerikadacostco #amerikadapeynir #amerikadakosher #amerikadakahvaltılık #amerikadaresdepot #amerikadatarget #amerikadatazemozzarella #amerikadabelgioioso #amerikadamozzarella'
@@ -387,6 +387,12 @@ final List<Map<String, String>> products = [
     'category': 'Dairy Products',
     'description':
         'Belgioioso Cheese / Peynir postları sıraya dizildi 😅. BelGioioso marka peynirleri biliyorsunuzdur. Birçok markette denk geliyorum ben. Hayvansal enzimi olmayan ve kosherli olan türlerini sayfalarında paylaşmışlar. Öğrendim, paylaşmış olayım🧀. 3. Fotoğraftaki bir detay dikkatinizi çekti mi bilmiyorum. Kosher olmasının bir anlamı enzimin bitkisel veya microbial olması. Diğer anlamıysa mayanın süte karıştırılması sırasında hahamın orada bulunması. Biz hahamla ilgilenmediğimiz için enzim/rennet microbial/vegetable olsa da yeterli. Kosher olmasa da oluyor işte bu noktada. .#amerikadawalmart #amerikadacostco #amerikadapeynir #amerikadakosher #amerikadakahvaltılık #amerikadaresdepot #amerikadatarget #amerikadatazemozzarella #amerikadabelgioioso #amerikadamozzarella'
+  },
+  {
+    'name': 'Fresh Cheddar Cheese Curds',
+    'category': 'Dairy Products',
+    'description':
+        'Pepperoni cheddar ve bacon flavor olanlar disinda helal / Yancey’s Fancy peynirlerinin bacon flavored ve pepperoni cheddar dışındakiler vejeteryanlar için uygunmuş. Giant, Safeway, Weis, Whole foods bulabileceğiniz bazı marketler. Web sayfalarında zip kodunuzu girince size en yakın hangi marketlerde olduğunu görebiliyorsunuz. Paylaştığınız için teşekkürler @zahideongunkaya .#peynir #amerika #amerikadayemek #amerikadayasam #amerikadapeynir'
   },
   {
     'name': 'Fresh Cheddar Cheese Curds',
@@ -1129,15 +1135,72 @@ final List<Map<String, String>> products = [
     'description':
         'Supremo Italiano /İtalyanların meşhur Cannoli tatlısını gördüm bir gün. Denemek istedim. Hamurları kızartırken sarıldıkları silindirik metal çubuklardan almak gerekiyordu. Kaldı sonra. Bir gün hazırına denk geldim. İç dolgusunda vanilla extract vardı. İyiden iyiye pes etmiştim ki Restaurant Depot’da bu hazır kızartılmışlara denk geldim. Amazon’da çok pahalı. İçine muhallebi, dondurma doldurulabilir. Sunum olarak çok hoşuma gitti. Bilmeyenler için de fikir olsun istedim. Kosher.#amerikadapasta #amerikadakrema #amerikadaresdepot #amerikadatatlı #amerikadacannoli '
   },
-  {'name': 'new Products', 'category': 'aaaaa', 'description': 'bbbb'},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
+  {
+    'name': 'Marmaris Feta',
+    'category': 'Dairy Products',
+    'description':
+        'Cheese Euphrates Hepsi helal / Restaurant Depot’da satılan Marmaris Feta peyniri soruluyordu. Üretici firmasının adı Euphrates imiş. Sayfalarından peynir yapımı için bitkisel maya kullandıkları bilgisine ulaştım. Afiyet olsun🧀.1 Mart 2021 itibariyle aynı bilgi hala geçerliliğini koruyor.#amerikadaresdepot #amerikadapeynir #amerikadakahvaltılık #amerikadafeta'
+  },
+  {
+    'name': 'Danish Style Feta Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Cheese Atalanta / Bir takipçim Restaurant Depot’dan aldığı peynirleri paylaştı. Atalanta marka beyaz peynir helal görünüyor. Firmayla yaptığım yazışmayla mikrobial enzim kullandıklarını öğrendim. Fontina peyniri de vejeteryan olarak listelenmiş Belgioioso’nun sayfasında. Türk kaşarına benziyormuş. Büyük bir paketteymiş fakat buzlukta parçalara bölerek saklanabilir kullanılmayan kısmı. Paylaştığınız için teşekkürler💐. .#amerikadapeynir #amerikadaresdepot #amerikadakahvaltılık #amerikadafeta'
+  },
+  {
+    'name': 'Clarified Butter',
+    'category': 'Dairy Products',
+    'description':
+        'Plugra / Bir takipçim Restaurant Depot’tan aldığı sade tereyağını paylaştı. Köpüğü alınmış tereyağıymış. Yağ oranı daha yüksek, tadı biraz daha yoğun oluyormuş. Bizimle paylaştığınız için teşekkürler💐.#amerikadayağ #amerikadabutter #amerikadayemek #amerikadaresdepot #amerikadasadeyağ #amerikadatereyağ'
+  },
+  {
+    'name': 'Heavy Whipping Cream',
+    'category': 'Dairy Products',
+    'description':
+        'Horizon Organic / Sağolsun bir takipçimin önerdiği bir sayfadan sadece iki malzemeyle kaymaklı dondurma yaptım 🍦. İlk deneme, biraz daha geliştirme olacak zamanla😊.Heavy cream: kaymağın altında kalan sütün en yağlı kısmı. Condensed milk: sütteki suyun 60% oranında buharlaştırılmasıyla geriye kalan yoğun süt. İçine şeker koydukları için süt reçeli olmuş oluyor. Bazısında “sweetened” yazmasa da condensed milkler hep şekerlidir. Şeker eklenmemişlerine evaporated milk diyorlar. Condensed milk çok şekerli geldi. Bir dahaki sefere evaporated milk kullanıp şeker miktarını daha az tutarım. Hatta belki şeker yerine bal eklerim🤔. Neyse, asıl mevzuya geleyim. İşe ilk olarak metal çırpma kabı ve metal çırpıcıyı derin dondurucuya koyarak başladım. Malzemelerin ve ortamın soğukluğu önemliymiş dondurma yapımında. Çırpıcı kabı 1 saat kadar soğukta beklettikten sonra heavy creami tek başına yüksek devirde çırparak başladım. Birkaç dakikaya kıvam aldıktan sonra condensed milk ekledim ve tekrar yüksek devirde kıvam alana kadar çırptım. Buzluğa dayanıklı bir kaba aktarıp 5 saat kadar buzlukta beklettim. Görüntü dondurma, tat kaymaklı dondurma ama bizim için fazla şekerli oldu😅. Bir sonraki denemede içine çilek de katabilirim. O zamana kadar birileri denerse önerilere de açığım👍🏻💐. .Sonradan ekleme not: bana göre içeriği uygun bir evaporated milk bulmadığımdan, kendim de yapmadığımdan kullanmadım 😅#amerikadadondurma #amerikadaevyapımı #amerikadaevyapımıdondurma #amerikadaevyapimidondurma #amerikadakitchenaid #amerikadasütreçeli'
+  },
+  {
+    'name': 'Sweetened Consensed Milk',
+    'category': 'Dairy Products',
+    'description':
+        'Great Value / Sağolsun bir takipçimin önerdiği bir sayfadan sadece iki malzemeyle kaymaklı dondurma yaptım 🍦. İlk deneme, biraz daha geliştirme olacak zamanla😊.Heavy cream: kaymağın altında kalan sütün en yağlı kısmı. Condensed milk: sütteki suyun 60% oranında buharlaştırılmasıyla geriye kalan yoğun süt. İçine şeker koydukları için süt reçeli olmuş oluyor. Bazısında “sweetened” yazmasa da condensed milkler hep şekerlidir. Şeker eklenmemişlerine evaporated milk diyorlar. Condensed milk çok şekerli geldi. Bir dahaki sefere evaporated milk kullanıp şeker miktarını daha az tutarım. Hatta belki şeker yerine bal eklerim🤔. Neyse, asıl mevzuya geleyim. İşe ilk olarak metal çırpma kabı ve metal çırpıcıyı derin dondurucuya koyarak başladım. Malzemelerin ve ortamın soğukluğu önemliymiş dondurma yapımında. Çırpıcı kabı 1 saat kadar soğukta beklettikten sonra heavy creami tek başına yüksek devirde çırparak başladım. Birkaç dakikaya kıvam aldıktan sonra condensed milk ekledim ve tekrar yüksek devirde kıvam alana kadar çırptım. Buzluğa dayanıklı bir kaba aktarıp 5 saat kadar buzlukta beklettim. Görüntü dondurma, tat kaymaklı dondurma ama bizim için fazla şekerli oldu😅. Bir sonraki denemede içine çilek de katabilirim. O zamana kadar birileri denerse önerilere de açığım👍🏻💐. .Sonradan ekleme not: bana göre içeriği uygun bir evaporated milk bulmadığımdan, kendim de yapmadığımdan kullanmadım 😅#amerikadadondurma #amerikadaevyapımı #amerikadaevyapımıdondurma #amerikadaevyapimidondurma #amerikadakitchenaid #amerikadasütreçeli'
+  },
+  {
+    'name': 'Crumbled Feta (Tomato Basil/Traditional/Peppercorn)',
+    'category': 'Dairy Products',
+    'description':
+        ' Nikos Cheese /  Beyaz peynir olarak Nikos markasına denk geldim. IFANCA’dan Helal sertifikalı. ShopRite, Fiesta Mart, Lucky, Star Market, Shaws gibi marketlerde var. İnternet sayfalarından zip kodunuzu yazıp size yakın hangi marketlerde bulunduğunu bulabilirsiniz👍🏻. Değişik çeşitleri var.#amerikadapeynir #amerikadakahvaltılık #amerikadaborek #amerikadafeta'
+  },
+  {
+    'name': 'Supremo Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Supremo Marka Hepsi Helal / Costco, Walmart, Aldi, Sams Club, Giant, Restaurant Depot gibi marketlerde bulunan VV Supremo marka peynirler, sayfalarında yazdıkları bilgiye göre, vejeteryanlar için uygunmuş. 👍🏻.#amerikadapeynir #amerikadacostco #amerikadaaldi #amerikadaresdepot #amerikadakahvaltılık'
+  },
+  {
+    'name': 'Irish Butter',
+    'category': 'Dairy Products',
+    'description':
+        'Kerrygold / Neredeyse her markette bulunan Kerrygold tereyağlarını denemeyenler mutlaka denesin. Tadı gerçekten harika. Tuzsuz tereyağlarının hazırlanması sırasında bazen alkol kullanılıyor başlangıç kültüründe. Onu sormuştum. Alkol yok diyorlar. Daha önce de paylaşmıştım, tekrar bahsetmiş olayım; Kerrygold peynirleri mikrobiyal/bakteri mayası ile yapılıyor. Sadece iki peynir türü bir çeşit bira ve viski içeriyormuş. Onlar da zaten paketin üzerindeki içki kadehlerinden ayırt ediliyor🙂.#amerikadayağ #amerikadabutter #amerikadapasta #amerikadakurabiye #amerikadakahvaltılık #amerikadatereyağ'
+  },
+  {
+    'name': 'Kerrygold Cheese ',
+    'category': 'Dairy Products',
+    'description':
+        'Cheese Hepsi Helal, Dubliner With Irish Stout ve Aged Cheddar with Irish Whiskey Haric / Neredeyse her markette bulunan Kerrygold tereyağlarını denemeyenler mutlaka denesin. Tadı gerçekten harika. Tuzsuz tereyağlarının hazırlanması sırasında bazen alkol kullanılıyor başlangıç kültüründe. Onu sormuştum. Alkol yok diyorlar. Daha önce de paylaşmıştım, tekrar bahsetmiş olayım; Kerrygold peynirleri mikrobiyal/bakteri mayası ile yapılıyor. Sadece iki peynir türü bir çeşit bira ve viski içeriyormuş. Onlar da zaten paketin üzerindeki içki kadehlerinden ayırt ediliyor🙂.#amerikadayağ #amerikadabutter #amerikadapasta #amerikadakurabiye #amerikadakahvaltılık #amerikadatereyağ'
+  },
+  {
+    'name': 'Great Value Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'GV Hepsi helal olabilir ama aciklamayi okuyalim / Walmart’ın Great Value peynirleri dikkatimi çekiyor son birkaç gidişimde. Enzim kökeniyle ilgili bilgi göremedim hiç birinde. Biri hariç kosher yoktu. Önceki gün müşteri hizmetlerini arayıp görüştüm. Peynirlerini yaptırdıkları birkaç tedarikçi firma olduğunu, bunlardan sadece bir tanesinin ürettiği tüm peynirlerin vejeteryanlar için uygun olduğu notunu sisteme düştüğünü öğrendim. Hangi firmadan hangi eyalete, hangi Walmart şubesine dağıtım yapıldığını bilmiyorlar. Bu nedenle ancak barkod numarası ile öğrenilebileceğini söyledi görüştüğüm kişi. Eğer Great Value peynirlerinden almak istiyorsanız 807-505-2267 numarayı arayıp istediğiniz Great Value marka peynir çeşidinin barkodunu söyleyip peynirde kullanılan maya kökenini öğrenebilirsiniz. .#amerikadapeynir #amerikadawalmart #amerikadakahvaltılık #amerikadapizza #amerikadamozzarella #amerikadapeynirçubuğu #amerikadaçubukpeynir'
+  },
+  {
+    'name': 'Merci Blue / Green',
+    'category': 'Chocolate',
+    'description':
+        'Merci / Walmartlarda satılan Alman çikolatası Merci için firmaya yazmıştım ama haftalardır dönmediler. Almanya’daki hazır gıdaların içeriğini araştıran @halalcheck.official sayfasından burada satılan türleri inceledim. Yeşil ve mavi pakette olan Merci çikolatalarında eser miktarda alkol bulunmuyormuş👍🏻.#amerikadaçikolata #amerikadawalmart #abdbeslenmeçantasına #amerikadaaldi'
+  },
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
