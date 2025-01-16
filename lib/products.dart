@@ -1201,52 +1201,606 @@ final List<Map<String, String>> products = [
     'description':
         'Merci / Walmartlarda satılan Alman çikolatası Merci için firmaya yazmıştım ama haftalardır dönmediler. Almanya’daki hazır gıdaların içeriğini araştıran @halalcheck.official sayfasından burada satılan türleri inceledim. Yeşil ve mavi pakette olan Merci çikolatalarında eser miktarda alkol bulunmuyormuş👍🏻.#amerikadaçikolata #amerikadawalmart #abdbeslenmeçantasına #amerikadaaldi'
   },
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
+  {
+    'name': 'Cream Candies',
+    'category': 'Candy',
+    'description':
+        'Werther / Werther’s şekerlemelerini daha önce paylaşmıştım hatırlarsanız. Tüm şekerler Almanya’da üretiliyor olsa da Amerika sayfaları ile Kanada sayfaları arasında alkol içeriğini açıklama konusunda farklı bir detay vardı. O nedenle postu silip firmaya yazmıştım ama dönüş yapmadılar haftalardır. Ben de yine Almanya’da içerikleri araştıran @halalcheck.official sayfasından kontrol ettim. Fotoğraftaki 4 çeşidinde hiçbir şekilde alkol içeriği yokmuş. Diğer çeşitlerinde etil alkol çözücü olarak kullanılıyormuş. Kosher yok ama hayvansal sıkıntılı bir katkı da yok👍🏻.#amerikadaşeker #amerikadaçikolata #amerikadaaldi #amerikadaşekerleme #amerikadawalmart #amerikadatarget #amerikadadollartree'
+  },
+  {
+    'name': 'Chewy Toffees',
+    'category': 'Candy',
+    'description':
+        'Werther / Werther’s şekerlemelerini daha önce paylaşmıştım hatırlarsanız. Tüm şekerler Almanya’da üretiliyor olsa da Amerika sayfaları ile Kanada sayfaları arasında alkol içeriğini açıklama konusunda farklı bir detay vardı. O nedenle postu silip firmaya yazmıştım ama dönüş yapmadılar haftalardır. Ben de yine Almanya’da içerikleri araştıran @halalcheck.official sayfasından kontrol ettim. Fotoğraftaki 4 çeşidinde hiçbir şekilde alkol içeriği yokmuş. Diğer çeşitlerinde etil alkol çözücü olarak kullanılıyormuş. Kosher yok ama hayvansal sıkıntılı bir katkı da yok👍🏻.#amerikadaşeker #amerikadaçikolata #amerikadaaldi #amerikadaşekerleme #amerikadawalmart #amerikadatarget #amerikadadollartree'
+  },
+  {
+    'name': 'Creamy Caramel Filled',
+    'category': 'Candy',
+    'description':
+        'Werther / Werther’s şekerlemelerini daha önce paylaşmıştım hatırlarsanız. Tüm şekerler Almanya’da üretiliyor olsa da Amerika sayfaları ile Kanada sayfaları arasında alkol içeriğini açıklama konusunda farklı bir detay vardı. O nedenle postu silip firmaya yazmıştım ama dönüş yapmadılar haftalardır. Ben de yine Almanya’da içerikleri araştıran @halalcheck.official sayfasından kontrol ettim. Fotoğraftaki 4 çeşidinde hiçbir şekilde alkol içeriği yokmuş. Diğer çeşitlerinde etil alkol çözücü olarak kullanılıyormuş. Kosher yok ama hayvansal sıkıntılı bir katkı da yok👍🏻.#amerikadaşeker #amerikadaçikolata #amerikadaaldi #amerikadaşekerleme #amerikadawalmart #amerikadatarget #amerikadadollartree'
+  },
+  {
+    'name': 'Eclairs',
+    'category': 'Candy',
+    'description':
+        'Werther / Werther’s şekerlemelerini daha önce paylaşmıştım hatırlarsanız. Tüm şekerler Almanya’da üretiliyor olsa da Amerika sayfaları ile Kanada sayfaları arasında alkol içeriğini açıklama konusunda farklı bir detay vardı. O nedenle postu silip firmaya yazmıştım ama dönüş yapmadılar haftalardır. Ben de yine Almanya’da içerikleri araştıran @halalcheck.official sayfasından kontrol ettim. Fotoğraftaki 4 çeşidinde hiçbir şekilde alkol içeriği yokmuş. Diğer çeşitlerinde etil alkol çözücü olarak kullanılıyormuş. Kosher yok ama hayvansal sıkıntılı bir katkı da yok👍🏻.#amerikadaşeker #amerikadaçikolata #amerikadaaldi #amerikadaşekerleme #amerikadawalmart #amerikadatarget #amerikadadollartree'
+  },
+  {
+    'name': 'Toffifay',
+    'category': 'Candy',
+    'description':
+        'Storck / @halalcheck.official sayfasında gördüğüm kadarıyla Walmart (\$2.18) ve Target’ta (\$2.49) satılan Toffifay çikolatası da alkol ve hayvansal katkı içermiyormuş👍🏻. Made in Germany. .Güncelleme: .Does Toffifay contain alcohol? We do not use alcohol as an ingredient for Toffifay. According to the current recipe, we can also safely state that the flavourings we use do not contain even minimal amounts of alcohol.#amerikadaçikolata #amerikadaatıştırmalık #amerikadawalmart #amerikadatarget #amerikadadollartree'
+  },
+  {
+    'name': 'Shredded Mozzarella',
+    'category': 'Dairy Products',
+    'description':
+        'Stella Cheese / Restaurant Depot’da satılan birkaç peyniri üreticisine sormuştum. Görseldeki 3 ürün de (rende mozzarellalar ve blue cheese) vejeteryanlar için uygun yani hayvansal maya ve katkılar içermiyor. .#amerikadapeynir #amerikadaresdepot #amerikadapizza'
+  },
+  {
+    'name': 'Crumbled Blue Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Stella Cheese / Restaurant Depot’da satılan birkaç peyniri üreticisine sormuştum. Görseldeki 3 ürün de (rende mozzarellalar ve blue cheese) vejeteryanlar için uygun yani hayvansal maya ve katkılar içermiyor. .#amerikadapeynir #amerikadaresdepot #amerikadapizza'
+  },
+  {
+    'name': 'Cauliflower Pizza Crust',
+    'category': 'Bread and Bakery',
+    'description':
+        'Trader Joes / @zaktass hanım sağolsun Trader Joe’s turunda bulduğu içeriği temiz ürünleri gönderdi. İlki bu karnabahar ve brokoli pizza hamurları. Paylaştığınız için teşekkürler💐. .#amerikadapizza #amerikadagf #amerikadatraderjoes'
+  },
+  {
+    'name': 'Broccoli & Kale Pizza Crust',
+    'category': 'Bread and Bakery',
+    'description':
+        'Trader Joes / @zaktass hanım sağolsun Trader Joe’s turunda bulduğu içeriği temiz ürünleri gönderdi. İlki bu karnabahar ve brokoli pizza hamurları. Paylaştığınız için teşekkürler💐. .#amerikadapizza #amerikadagf #amerikadatraderjoes'
+  },
+  {
+    'name': 'Butter Waffle Cookies',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / @zaktass hanımın Trader Joe’stan bulduğu atıştırmalıklarla devam ediyorum. İçeriklerinde flavor gibi belirsiz katkılar yok. Bakınca da gayet lezzetli görünüyorlar😅. Paylaştığınız için teşekkürler💐.#amerikadaatıştırmalık #amerikadabisküvi #abdbeslenmeçantasına #amerikadakurabiye #amerikadatraderjoes'
+  },
+  {
+    'name': 'Speculoos Cookies',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / @zaktass hanımın Trader Joe’stan bulduğu atıştırmalıklarla devam ediyorum. İçeriklerinde flavor gibi belirsiz katkılar yok. Bakınca da gayet lezzetli görünüyorlar😅. Paylaştığınız için teşekkürler💐.#amerikadaatıştırmalık #amerikadabisküvi #abdbeslenmeçantasına #amerikadakurabiye #amerikadatraderjoes'
+  },
+  {
+    'name': 'Apple Mango Fruit Bar',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / @zaktass hanımın Trader Joe’stan bulduğu atıştırmalıklarla devam ediyorum. İçeriklerinde flavor gibi belirsiz katkılar yok. Bakınca da gayet lezzetli görünüyorlar😅. Paylaştığınız için teşekkürler💐.#amerikadaatıştırmalık #amerikadabisküvi #abdbeslenmeçantasına #amerikadakurabiye #amerikadatraderjoes'
+  },
+  {
+    'name': 'Apple Coconut Fruit Bar',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / @zaktass hanımın Trader Joe’stan bulduğu atıştırmalıklarla devam ediyorum. İçeriklerinde flavor gibi belirsiz katkılar yok. Bakınca da gayet lezzetli görünüyorlar😅. Paylaştığınız için teşekkürler💐.#amerikadaatıştırmalık #amerikadabisküvi #abdbeslenmeçantasına #amerikadakurabiye #amerikadatraderjoes'
+  },
+  {
+    'name': 'Pro Energy and Protein Bar',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trail Nuggets / @zaktass hanımın Trader Joe’stan bulduğu atıştırmalıklarla devam ediyorum. İçeriklerinde flavor gibi belirsiz katkılar yok. Bakınca da gayet lezzetli görünüyorlar😅. Paylaştığınız için teşekkürler💐.#amerikadaatıştırmalık #amerikadabisküvi #abdbeslenmeçantasına #amerikadakurabiye #amerikadatraderjoes'
+  },
+  {
+    'name': 'Dark Chocolate Batons',
+    'category': 'Chocolate',
+    'description':
+        'Trader Joes / @zaktass hanımın Trader Joe’stan bulduğu katkısız içerikli çikolatalar... Paylaştığınız için teşekkürler💐.#amerikadaçikolata #amerikadatraderjoes'
+  },
+  {
+    'name': 'Fair Trade Organic %72 Cacao Belgian Dark Chocolate Bar',
+    'category': 'Chocolate',
+    'description':
+        'Trader Joes / @zaktass hanımın Trader Joe’stan bulduğu katkısız içerikli çikolatalar... Paylaştığınız için teşekkürler💐.#amerikadaçikolata #amerikadatraderjoes'
+  },
+  {
+    'name': 'Real Mayonnaise',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Trader Joes /Trader Joe’sta katkısız mayonez varmış. @zaktass hanım bizimle paylaştı. Teşekkürler💐.#amerikadamayonez #amerikadatraderjoes #amerikadahamburger #amerikadaköfte'
+  },
+  {
+    'name': 'carob Powder Roasted',
+    'category': 'Baking Ingredients',
+    'description':
+        'The Australian Carob Co / MOM’s marketlerinde organik keçiboynuzu tozu ve damlaları var. Kakao ve çikolata yerine kullanılabilir👍🏻.#amerikadapasta #amerikadakurabiye #amerikadakek #amerikadadamlaçikolata #amerikadakeçiboynuzu #amerikadamoms'
+  },
+  {
+    'name': 'carob Baking Chips',
+    'category': 'Baking Ingredients',
+    'description':
+        '? / MOM’s marketlerinde organik keçiboynuzu tozu ve damlaları var. Kakao ve çikolata yerine kullanılabilir👍🏻.#amerikadapasta #amerikadakurabiye #amerikadakek #amerikadadamlaçikolata #amerikadakeçiboynuzu #amerikadamoms'
+  },
+  {
+    'name': 'Unsweetened carob Baking Chips',
+    'category': 'Baking Ingredients',
+    'description':
+        '? / MOM’s marketlerinde organik keçiboynuzu tozu ve damlaları var. Kakao ve çikolata yerine kullanılabilir👍🏻.#amerikadapasta #amerikadakurabiye #amerikadakek #amerikadadamlaçikolata #amerikadakeçiboynuzu #amerikadamoms'
+  },
+  {
+    'name': 'Whole Wheat Hamburger Buns',
+    'category': 'Baking Ingredients',
+    'description':
+        'Trader Joes / @miramammad hanım Trader Joe’stan tam buğday unlu hamburger ekmeği paylaştı. İçeriği sade ve kosher. İnternetten beyaz unlusuna baktım. O da kosherli ve içeriği uygun görünüyor.Paylaştığınız için teşekkürler💐. #amerikadaekmek #amerikadatraderjoes #amerikadayemek #amerikadahamburger'
+  },
+  {
+    'name': 'Classic Hamburger Buns',
+    'category': 'Baking Ingredients',
+    'description':
+        'Trader Joes / @miramammad hanım Trader Joe’stan tam buğday unlu hamburger ekmeği paylaştı. İçeriği sade ve kosher. İnternetten beyaz unlusuna baktım. O da kosherli ve içeriği uygun görünüyor.Paylaştığınız için teşekkürler💐. #amerikadaekmek #amerikadatraderjoes #amerikadayemek #amerikadahamburger'
+  },
+  {
+    'name': 'Raisin Bran',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Apple Cinnamon Toasted Oats',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Sweetened Wheat Puffs',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Cinnamon Flakes',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Wheat Squares',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Fruit & Grain',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Wheat Crunch',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Rice Squares',
+    'category': 'Grains and Cereals',
+    'description':
+        'Wegmans / Wegmans marketlerinin kendi markası cerealları inceledim. İçinde natural&artificial flavor, extract gibi katkılar içermeyenlerinden derlemeye çalıştım. Bazılarında içerik listesi çok uzun. Onlarda vitamin takviyesi işini abartmışlar biraz😅. Hepsi kosher.#amerikadacereal #amerikadawegmans #amerikadakahvaltılık #amerikadaatıştırmalık #amerikadagf'
+  },
+  {
+    'name': 'Chocolate French Crepes',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Le Chich Patissier / Costco’da satılan bu ürün sorulmuştu. Costco ile irtibata geçtim ama ithal eden firmaya yönlendirdiler. Fransa malı, kosheri yok. Alkol bazlı olabilecek bir içerik dikkatimi çekmedi. Hayvansal olabilecek bir katkı ihtimaline karşı vejeteryanlar için uygun olup olmadığını sordum. Uygunmuş. Yani içinde süt ve yumurta dışında hayvansal katkı yok 👍🏻..Sonradan ekleme not: kadın daha geniş bir cevapla tekrar cevap verdi😅:Thank you for your e-mail and interest in our product.The product is indeed suitable for vegetarian.It does not suit vegans as it contains milk and eggs but totally suitable for vegetarian.Let me know if you have any other questions. .#amerikadaatıştırmalık #amerikadacostco #amerikadabisküvi #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Provolone Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Supremo Italiano / Restaurant Depot’ya sorduğum peynirler için cevaplar gelmeye başladı. Listem uzun, parça parça soruyorum. Sorduğum ilk 4 peynirin 3ü vejeteryanlar için uygunmuş (Supremo Italiano marka Provolone loaf, New York blend mozzarella, Burrata). Fotoğraflarını ekledim onların. .Burrata peynirini hiç yemedim ama aklıma düştü, sizin aklınıza da düşüreyim dedim yine😅. Dışı taze mozzarella peyniri, içi kaymak dolgulu. Bomba yani😀. Cevaplar geldikçe paylaşmaya devam edeceğim👍🏻. .#amerikadapeynir #amerikadaresdepot #amerikadapizza #amerikadakahvaltılık #amerikadamozzarella'
+  },
+  {
+    'name': 'Provolone Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Supremo Italiano / Restaurant Depot’ya sorduğum peynirler için cevaplar gelmeye başladı. Listem uzun, parça parça soruyorum. Sorduğum ilk 4 peynirin 3ü vejeteryanlar için uygunmuş (Supremo Italiano marka Provolone loaf, New York blend mozzarella, Burrata). Fotoğraflarını ekledim onların. .Burrata peynirini hiç yemedim ama aklıma düştü, sizin aklınıza da düşüreyim dedim yine😅. Dışı taze mozzarella peyniri, içi kaymak dolgulu. Bomba yani😀. Cevaplar geldikçe paylaşmaya devam edeceğim👍🏻. .#amerikadapeynir #amerikadaresdepot #amerikadapizza #amerikadakahvaltılık #amerikadamozzarella'
+  },
+  {
+    'name': 'Burrata Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Supremo Italiano / Restaurant Depot’ya sorduğum peynirler için cevaplar gelmeye başladı. Listem uzun, parça parça soruyorum. Sorduğum ilk 4 peynirin 3ü vejeteryanlar için uygunmuş (Supremo Italiano marka Provolone loaf, New York blend mozzarella, Burrata). Fotoğraflarını ekledim onların. .Burrata peynirini hiç yemedim ama aklıma düştü, sizin aklınıza da düşüreyim dedim yine😅. Dışı taze mozzarella peyniri, içi kaymak dolgulu. Bomba yani😀. Cevaplar geldikçe paylaşmaya devam edeceğim👍🏻. .#amerikadapeynir #amerikadaresdepot #amerikadapizza #amerikadakahvaltılık #amerikadamozzarella'
+  },
+  {
+    'name': 'Shredded NY Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Supremo Italiano / Restaurant Depot’ya sorduğum peynirler için cevaplar gelmeye başladı. Listem uzun, parça parça soruyorum. Sorduğum ilk 4 peynirin 3ü vejeteryanlar için uygunmuş (Supremo Italiano marka Provolone loaf, New York blend mozzarella, Burrata). Fotoğraflarını ekledim onların. .Burrata peynirini hiç yemedim ama aklıma düştü, sizin aklınıza da düşüreyim dedim yine😅. Dışı taze mozzarella peyniri, içi kaymak dolgulu. Bomba yani😀. Cevaplar geldikçe paylaşmaya devam edeceğim👍🏻. .#amerikadapeynir #amerikadaresdepot #amerikadapizza #amerikadakahvaltılık #amerikadamozzarella'
+  },
+  {
+    'name': 'Hamburger/hot dog Buns',
+    'category': 'Bread and Bakery',
+    'description':
+        'Loven Fresh / Aldi’deki ekmekleri inceledim biraz. Kosherli ve flavorsız çoğu. Bu ara hamburger ekmeği de soruluyordu. Sosis ekmekleri de var. Beyaz Tost ekmeğini de ekledim. Fiyatlar çok uygun.#amerikadaekmek #amerikadaaldi'
+  },
+  {
+    'name': 'Split Top Wheat Bread',
+    'category': 'Bread and Bakery',
+    'description':
+        'Loven Fresh / Aldi’deki ekmekleri inceledim biraz. Kosherli ve flavorsız çoğu. Bu ara hamburger ekmeği de soruluyordu. Sosis ekmekleri de var. Beyaz Tost ekmeğini de ekledim. Fiyatlar çok uygun.#amerikadaekmek #amerikadaaldi'
+  },
+  {
+    'name': 'Whole Grains 12 grain bread',
+    'category': 'Bread and Bakery',
+    'description':
+        'Loven Fresh / Aldi’deki tam tahıllı ekmeklerin de çoğunda sıkıntı yok. Kosherli. Fiyatlar uygun. Malt extract, su ile elde edilen bir özüt. 👍🏻.#amerikadaekmek #amerikadaaldi'
+  },
+  {
+    'name': 'Whole Grains %100 Whole Wheat bread',
+    'category': 'Bread and Bakery',
+    'description':
+        'Loven Fresh / Aldi’deki tam tahıllı ekmeklerin de çoğunda sıkıntı yok. Kosherli. Fiyatlar uygun. Malt extract, su ile elde edilen bir özüt. 👍🏻.#amerikadaekmek #amerikadaaldi'
+  },
+  {
+    'name': 'Wheat bread',
+    'category': 'Bread and Bakery',
+    'description':
+        'Fit Active / Aldi’deki tam tahıllı ekmeklerin de çoğunda sıkıntı yok. Kosherli. Fiyatlar uygun. Malt extract, su ile elde edilen bir özüt. 👍🏻.#amerikadaekmek #amerikadaaldi'
+  },
+  {
+    'name': 'Ghee Clarified Butter',
+    'category': 'Dairy Products',
+    'description':
+        'Carlini / Sade yağ Aldi’de de varmış. Baklava ve böreklerde, hatta yemeklerde kullananlar var. Kullananlardan yorumları alalım🙂.#amerikadaaldi #amerikadayağ #amerikadabutter #amerikadatereyağ'
+  },
+  {
+    'name': 'Classic Mayonnaise(%100 sunflower oil)',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Sir Kensigton / Sir Kensington’s markasına ilk kez Target’ta denk geldim. Fotoğraftaki ürünleri free range yani kümes dışında -kısmen- kendi halinde gezinen tavuklardan elde edilmiş yumurtalarla yapılmış. Ayçiçek yağı veya avokado yağı ile yapmışlar. Natural flavor gibi içeriği belirsiz katkıları ne bu ürünlerinde ne de internet sayfalarından bakınca diğer ürünlerinde göremedim. Sağlıklı mayonez alternatifi olarak bunlar da burada dursun👍🏻.#amerikadamayonez #amerikadayemek #amerikadasos #amerikadatarget #amerikadahamburger #amerikadaköfte #amerikadawalmart #amerikadacostco'
+  },
+  {
+    'name': 'Organic Mayonnaise',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Sir Kensigton / Sir Kensington’s markasına ilk kez Target’ta denk geldim. Fotoğraftaki ürünleri free range yani kümes dışında -kısmen- kendi halinde gezinen tavuklardan elde edilmiş yumurtalarla yapılmış. Ayçiçek yağı veya avokado yağı ile yapmışlar. Natural flavor gibi içeriği belirsiz katkıları ne bu ürünlerinde ne de internet sayfalarından bakınca diğer ürünlerinde göremedim. Sağlıklı mayonez alternatifi olarak bunlar da burada dursun👍🏻.#amerikadamayonez #amerikadayemek #amerikadasos #amerikadatarget #amerikadahamburger #amerikadaköfte #amerikadawalmart #amerikadacostco'
+  },
+  {
+    'name': 'Classic Mayonnaise(%100 avocado oil)',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Sir Kensigton / Sir Kensington’s markasına ilk kez Target’ta denk geldim. Fotoğraftaki ürünleri free range yani kümes dışında -kısmen- kendi halinde gezinen tavuklardan elde edilmiş yumurtalarla yapılmış. Ayçiçek yağı veya avokado yağı ile yapmışlar. Natural flavor gibi içeriği belirsiz katkıları ne bu ürünlerinde ne de internet sayfalarından bakınca diğer ürünlerinde göremedim. Sağlıklı mayonez alternatifi olarak bunlar da burada dursun👍🏻.#amerikadamayonez #amerikadayemek #amerikadasos #amerikadatarget #amerikadahamburger #amerikadaköfte #amerikadawalmart #amerikadacostco'
+  },
+  {
+    'name': 'Special Sauce',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Sir Kensigton / Sir Kensington’s markasına ilk kez Target’ta denk geldim. Fotoğraftaki ürünleri free range yani kümes dışında -kısmen- kendi halinde gezinen tavuklardan elde edilmiş yumurtalarla yapılmış. Ayçiçek yağı veya avokado yağı ile yapmışlar. Natural flavor gibi içeriği belirsiz katkıları ne bu ürünlerinde ne de internet sayfalarından bakınca diğer ürünlerinde göremedim. Sağlıklı mayonez alternatifi olarak bunlar da burada dursun👍🏻.#amerikadamayonez #amerikadayemek #amerikadasos #amerikadatarget #amerikadahamburger #amerikadaköfte #amerikadawalmart #amerikadacostco'
+  },
+  {
+    'name': 'Popcorn',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Simply Nature / Aldi’de organik patlamış mısırı denedik. Yağı az, tuzu iyi. Beğendik. Patlatmalık mısırlar organik olmasa da genetiğiyle oynanmamış (non-gmo) mısırlardan yapılmış. Şu sıra indirimde sanırım. 2lb \$1.59. Çok ucuz. 👍🏻.#amerikadaaldi #amerikadaatıştırmalık #amerikadacips #abdbeslenmeçantasına #amerikadagf #amerikadamısır #amerikadapatlamışmısır'
+  },
+  {
+    'name': 'Popcorn kernels',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Clancys / Aldi’de organik patlamış mısırı denedik. Yağı az, tuzu iyi. Beğendik. Patlatmalık mısırlar organik olmasa da genetiğiyle oynanmamış (non-gmo) mısırlardan yapılmış. Şu sıra indirimde sanırım. 2lb \$1.59. Çok ucuz. 👍🏻.#amerikadaaldi #amerikadaatıştırmalık #amerikadacips #abdbeslenmeçantasına #amerikadagf #amerikadamısır #amerikadapatlamışmısır'
+  },
+  {
+    'name': 'Graham Snacks',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Nabisco / Honey Maid’in içindeki natural flavorı açıklamasalar da tarçınlısını flavorsız olarak böyle satıyorlar. Sade aromasızı Nabisco adıyla, kırmızı pakette satılıyor (daha önce paylaşmıştım) . Target’ta var her ikisi de👍🏻. .#amerikadaatıştırmalık #amerikadabisküvi #amerikadatarget.'
+  },
+  {
+    'name': 'Chopped Vegetable & BarleySoup',
+    'category': 'Ready-to-Eat Meals',
+    'description':
+        'Cedarlane / Costco’da organik ve içeriği temiz sebze çorbası var. Denemedim, tadı konusunda fikrim yok. Denemek isteyenlere fikir olsun👍🏻.#amerikadaçorba #amerikadacostco #amerikadahazıryemek'
+  },
+  {
+    'name': 'Tortilla Chips',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Kirkland / Costco’daki içeriği uygun ve temiz görünen cipslerde bu 3 ürün de var. Hepsi kosher, flavorsız. İlk görseldeki ürün çok büyük. Bitirmek zaman alıyor😅. .#amerikadacips #amerikadaatıştırmalık #amerikadacostco #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Tortilla Chips',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Abuelita / Costco’daki içeriği uygun ve temiz görünen cipslerde bu 3 ürün de var. Hepsi kosher, flavorsız. İlk görseldeki ürün çok büyük. Bitirmek zaman alıyor😅. .#amerikadacips #amerikadaatıştırmalık #amerikadacostco #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Cegetable Medley Chips',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Heaven Earth / Costco’daki içeriği uygun ve temiz görünen cipslerde bu 3 ürün de var. Hepsi kosher, flavorsız. İlk görseldeki ürün çok büyük. Bitirmek zaman alıyor😅. .#amerikadacips #amerikadaatıştırmalık #amerikadacostco #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Sandwich Bread',
+    'category': 'Bread and Bakery',
+    'description':
+        'Sunbeam / Costco’daki hazır ekmeklerden de içeriği uygun olanlar var. Sandviç, hamburger ve sosis ekmekleri daha büyük paketlerde (Aldi’ye göre). Buzlukta saklanabilir fazlası. Görsellerdekinin hepsi kosherli. .#amerikadaekmek #amerikadacostco #amerikadayemek'
+  },
+  {
+    'name': 'Old tyme',
+    'category': 'Bread and Bakery',
+    'description':
+        'Schmidt / Costco’daki hazır ekmeklerden de içeriği uygun olanlar var. Sandviç, hamburger ve sosis ekmekleri daha büyük paketlerde (Aldi’ye göre). Buzlukta saklanabilir fazlası. Görsellerdekinin hepsi kosherli. .#amerikadaekmek #amerikadacostco #amerikadayemek'
+  },
+  {
+    'name': 'Hot dog Rolls',
+    'category': 'Bread and Bakery',
+    'description':
+        'Schmidt / Costco’daki hazır ekmeklerden de içeriği uygun olanlar var. Sandviç, hamburger ve sosis ekmekleri daha büyük paketlerde (Aldi’ye göre). Buzlukta saklanabilir fazlası. Görsellerdekinin hepsi kosherli. .#amerikadaekmek #amerikadacostco #amerikadayemek'
+  },
+  {
+    'name': 'Table Water Cracker Selection',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Carrs / Costco’daki bu tuzlu krakerlerin de içeriği uygun. Burada bu krakerlerin üzerine birşeyler koyup kanepe olarak yemeyi seviyorlar ama hiç uğraşamadım ben🙈.#amerikadakraker #amerikadacostco #amerikadaatıştırmalık #amerikadabisküvi'
+  },
+  {
+    'name': 'Bisquick Pancake Baking Mix',
+    'category': 'Baking Ingredients',
+    'description':
+        'Betty Crocker / Hazır pankek ve waffle karışımı hiç kullanmadım. Kullanan veya kullanmak isteyenler için Costco’dan 3 alternatifi görsellere ekledim. İlkinde gdolu içerik varmış. İkincisi tam tahıllı. Sonuncusu glutensiz. Hepsi kosher👍🏻.#amerikadacostco #amerikadapankek #amerikadakek #amerikadakahvaltılık #amerikadagf #amerikadakekkarışımı #amerikadawalmart'
+  },
+  {
+    'name': 'Power Cakes Waffle Baking Mix',
+    'category': 'Baking Ingredients',
+    'description':
+        'Kodiak Cakes / Hazır pankek ve waffle karışımı hiç kullanmadım. Kullanan veya kullanmak isteyenler için Costco’dan 3 alternatifi görsellere ekledim. İlkinde gdolu içerik varmış. İkincisi tam tahıllı. Sonuncusu glutensiz. Hepsi kosher👍🏻.#amerikadacostco #amerikadapankek #amerikadakek #amerikadakahvaltılık #amerikadagf #amerikadakekkarışımı #amerikadawalmart'
+  },
+  {
+    'name': 'Pancake & Waffle Mix',
+    'category': 'Baking Ingredients',
+    'description':
+        'Birch & benders / Hazır pankek ve waffle karışımı hiç kullanmadım. Kullanan veya kullanmak isteyenler için Costco’dan 3 alternatifi görsellere ekledim. İlkinde gdolu içerik varmış. İkincisi tam tahıllı. Sonuncusu glutensiz. Hepsi kosher👍🏻.#amerikadacostco #amerikadapankek #amerikadakek #amerikadakahvaltılık #amerikadagf #amerikadakekkarışımı #amerikadawalmart'
+  },
+  {
+    'name': 'Active Dry Yeast',
+    'category': 'Baking Ingredients',
+    'description':
+        'Red Star / Birkaç kişi maya sormuştu. Costco’da satılan bu mayayı kullanıyorum. Uzun süre gidiyor. Buzdolabında saklıyorum. Kosher.Sayfalarından bilgi:Red Star Platinum is NOT gluten free because the dough improvers are derived from wheat flour. NOTE: For our gluten free bakers, you can continue to use our Red Star Active Dry Yeast or Red Star Quick Rise Yeast.Red Star Platinum contains soy flour.Red Star Platinum is certified Kosher parve under the rabbinical supervision of KOF-K.Red Star Platinum does not contain any peanuts, tree nuts, potatoes, or any other products derived from these sources.Red Star Platinum is dairy-free and egg-free.Red Star Platinum is vegan. There are no animal byproducts or ingredients derived from animals in our products..#amerikadamaya #amerikadaekmek #amerikadahamur #amerikadacostco #amerikadaresdepot'
+  },
+  {
+    'name': 'Milk/dark Chocolate Truffle',
+    'category': 'Chocolate',
+    'description':
+        'Trader Joes / Organik çikolatalar Trader Joe’sta var. İçerikleri de fiyatları da uygun👍🏻. .#amerikadatraderjoes #amerikadaçikolata'
+  },
+  {
+    'name': 'Dark Chocolate %73 cacao',
+    'category': 'Chocolate',
+    'description':
+        'Trader Joes / Organik çikolatalar Trader Joe’sta var. İçerikleri de fiyatları da uygun👍🏻. .#amerikadatraderjoes #amerikadaçikolata'
+  },
+  {
+    'name': 'Dark Chocolate %73 cacao with almonds',
+    'category': 'Chocolate',
+    'description':
+        'Trader Joes / Organik çikolatalar Trader Joe’sta var. İçerikleri de fiyatları da uygun👍🏻. .#amerikadatraderjoes #amerikadaçikolata'
+  },
+  {
+    'name': 'Mini Pretzels',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Synders / Snyder’s of Hanover tuzlu kraker çeşitleri içerik ve fiyat olarak uygun. Malt extract su ile elde edilen bir özüt. Bromelain, ananas suyu veya gövdesinden elde edilen bitkisel bir enzim. Hepsi kosher. Gözüme sıkıntılı olabilecek başka bir içerik takılmadı. Hamileyken mide bulantılarımı bastırmak için az yememiştim🙂. .#amerikadaatıştırmalık #amerikadakraker #abdbeslenmeçantasına #amerikadawalmart #amerikadatarget #amerikadawegmans #amerikadacostco #amerikadaaldi #amerikadadollartree #amerikadalidl #amerikadagiant #amerikadawholefoods'
+  },
+  {
+    'name': 'Snap Pretzels',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Synders / Snyder’s of Hanover tuzlu kraker çeşitleri içerik ve fiyat olarak uygun. Malt extract su ile elde edilen bir özüt. Bromelain, ananas suyu veya gövdesinden elde edilen bitkisel bir enzim. Hepsi kosher. Gözüme sıkıntılı olabilecek başka bir içerik takılmadı. Hamileyken mide bulantılarımı bastırmak için az yememiştim🙂. .#amerikadaatıştırmalık #amerikadakraker #abdbeslenmeçantasına #amerikadawalmart #amerikadatarget #amerikadawegmans #amerikadacostco #amerikadaaldi #amerikadadollartree #amerikadalidl #amerikadagiant #amerikadawholefoods'
+  },
+  {
+    'name': 'Sourdough Hard Pretzels',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Synders / Snyder’s of Hanover tuzlu kraker çeşitleri içerik ve fiyat olarak uygun. Malt extract su ile elde edilen bir özüt. Bromelain, ananas suyu veya gövdesinden elde edilen bitkisel bir enzim. Hepsi kosher. Gözüme sıkıntılı olabilecek başka bir içerik takılmadı. Hamileyken mide bulantılarımı bastırmak için az yememiştim🙂. .#amerikadaatıştırmalık #amerikadakraker #abdbeslenmeçantasına #amerikadawalmart #amerikadatarget #amerikadawegmans #amerikadacostco #amerikadaaldi #amerikadadollartree #amerikadalidl #amerikadagiant #amerikadawholefoods'
+  },
+  {
+    'name': 'Sticks Pretzels',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Synders / Snyder’s of Hanover tuzlu kraker çeşitleri içerik ve fiyat olarak uygun. Malt extract su ile elde edilen bir özüt. Bromelain, ananas suyu veya gövdesinden elde edilen bitkisel bir enzim. Hepsi kosher. Gözüme sıkıntılı olabilecek başka bir içerik takılmadı. Hamileyken mide bulantılarımı bastırmak için az yememiştim🙂. .#amerikadaatıştırmalık #amerikadakraker #abdbeslenmeçantasına #amerikadawalmart #amerikadatarget #amerikadawegmans #amerikadacostco #amerikadaaldi #amerikadadollartree #amerikadalidl #amerikadagiant #amerikadawholefoods'
+  },
+  {
+    'name': 'Pretzels Sticks',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Clancys / Snyder’s of Hanover tuzlu kraker çeşitleri içerik ve fiyat olarak uygun. Malt extract su ile elde edilen bir özüt. Bromelain, ananas suyu veya gövdesinden elde edilen bitkisel bir enzim. Hepsi kosher. Gözüme sıkıntılı olabilecek başka bir içerik takılmadı. Hamileyken mide bulantılarımı bastırmak için az yememiştim🙂. .#amerikadaatıştırmalık #amerikadakraker #abdbeslenmeçantasına #amerikadawalmart #amerikadatarget #amerikadawegmans #amerikadacostco #amerikadaaldi #amerikadadollartree #amerikadalidl #amerikadagiant #amerikadawholefoods'
+  },
+  {
+    'name': 'Peanut Butter Chips',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Reeses / Nestle butterscoth türü chips içerisindeki natural&artificial flavor sorulmuştu. Nestle açıklama yapmak istemiyor. “Ne var ne de yok diyemeyiz, birçok flavorda taşıyıcı olarak alkol kullanılır ve son üründe tespiti zor miktarda kalır. Natural flavor gizli, tedarikçiler flavor içeriğini açıklamadığı için eser miktarda alkol olabilir” şeklinde bir açıklama yapmışlar. Var mı yok mu şüphesine düşmek yerine Reese’s alternatifini kullanabilirsiniz. İçerisinde vanilin kullanılmış. Nestledeki gibi yapay boyalar da yok. Walmart’ta bulunuyor.#amerikadaçikolata #amerikadapasta #amerikadakek #amerikadakurabiye #amerikadadamlaçikolata'
+  },
+  {
+    'name': 'Organic Mayonnaise',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Trader Joes / Trader Joe’sta bu organic mayonezi gördüm. Daha önce paylaştığım normal mayonezi kosherli olduğu halde bunda kosher yok. İkisi arasında nasıl bir fark var ki biri kosher almış, diğeri almamış? Konu Yahudilikle ilgili. Doğu Avrupa kökenli yahudilere Ashkenazi (aşkenaz) yahudileri deniyor. Amerika’daki yahudilerin çoğunluğunu bu grup oluşturuyor. Bu yahudilerin diğerlerine göre biraz farklı uygulamaları var. En dikkati çeken (nisan ayında 7-8 gün süren) Passover (Pesach) bayramlarında bakliyat, tahıl, darı ve pirinç türü şeyleri ve türevlerini yemiyor olmaları. Bu organic mayonez içerisinde soya fasulyesi yağı kullanılmış (fiyat etiketinin altında bile “soya fasulyesi yağı ile yapılmıştır!” Yazıyor). Yani bir bakliyat grubu katkısı var. Olur da bayramda bu mayonezi kullanacak olurlarsa üzerindeki işaretin yokluğundan bu ürünün o gün yenilmemesi gerektiğini anlıyorlar.Bazen dikkatinizi çekmiş midir bilmiyorum. “Kosher for passover” ya da “kosher for passover year round” yazar bazı ürünlerin üzerinde. Yani passover bayramı için uygun veya tüm yıl boyunca uygun anlamında. Birkaç post önce paylaştığım Costco cipslerinin sonuncusunda öyle bir işaret var. O cips mısır, pirinç gibi yasaklı tanelerden yapılmamış ve yağı da uygun onlara (palmiye yağı). “Yıl boyu yiyebilirsiniz” anlamında kullanıyorlar. Neyse, bu detayı verdikten sonra kimseyi zorlamamakla beraber kosheri olmasa da içeriğinde sıkıntılı olabilecek bir katkı göremedim. Almak isteyenlere organik alternatif olsun.Sonradan ekleme: bu mayonezler artık kosher. #amerikadamayonez #amerikadatraderjoes #amerikadakosher #amerikadahamburger #amerikadaköfte'
+  },
+  {
+    'name': 'Burrata Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Trader Joes / Trader Joe’sta Burrata ve taze mozzarella peynirleri bulunuyor. Vejeteryanlar için uygun ve/veya kosher. Burrata’nın peşindeyim😅.#amerikadapeynir #amerikadatraderjoes #amerikadakahvaltılık #amerikadaburrata #amerikadatazemozzarella'
+  },
+  {
+    'name': 'All natural Fresh Mozzarella Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Trader Joes / Trader Joe’sta Burrata ve taze mozzarella peynirleri bulunuyor. Vejeteryanlar için uygun ve/veya kosher. Burrata’nın peşindeyim😅.#amerikadapeynir #amerikadatraderjoes #amerikadakahvaltılık #amerikadaburrata #amerikadatazemozzarella'
+  },
+  {
+    'name': 'Mozzarella Cheese Log',
+    'category': 'Dairy Products',
+    'description':
+        'Trader Joes / Trader Joe’sta Burrata ve taze mozzarella peynirleri bulunuyor. Vejeteryanlar için uygun ve/veya kosher. Burrata’nın peşindeyim😅.#amerikadapeynir #amerikadatraderjoes #amerikadakahvaltılık #amerikadaburrata #amerikadatazemozzarella'
+  },
+  {
+    'name': 'Mozzarella Part Skim Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Trader Joes / Trader Joe’sta Burrata ve taze mozzarella peynirleri bulunuyor. Vejeteryanlar için uygun ve/veya kosher. Burrata’nın peşindeyim😅.#amerikadapeynir #amerikadatraderjoes #amerikadakahvaltılık #amerikadaburrata #amerikadatazemozzarella'
+  },
+  {
+    'name': 'Seed Sweet Potato Crackers',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / Yine Trader Joe’sta dikkatimi çeken birkaç tuzlu atıştırmalık. .#amerikadakraker #amerikadaatıştırmalık #amerikadatraderjoes #abdbeslenmeçantasına #amerikadagf'
+  },
+  {
+    'name': '3 Seed beet Crackers',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / Yine Trader Joe’sta dikkatimi çeken birkaç tuzlu atıştırmalık. .#amerikadakraker #amerikadaatıştırmalık #amerikadatraderjoes #abdbeslenmeçantasına #amerikadagf'
+  },
+  {
+    'name': 'Pita Bite Crackers',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / Yine Trader Joe’sta dikkatimi çeken birkaç tuzlu atıştırmalık. .#amerikadakraker #amerikadaatıştırmalık #amerikadatraderjoes #abdbeslenmeçantasına #amerikadagf'
+  },
+  {
+    'name': 'Mochi Ice Dessert',
+    'category': 'Ice Cream',
+    'description':
+        'Buono / Bunlar da Trader Joe’sun dondurucu reyonunda dikkatimi çeken Tayland’dan helal sertifikalı, falvorsız, extractsız, vegan tatlılar. Biri çilekli diğeri yeşil çaylı. Alıp denemedim. Deneyenlerden önce fikir almak istedim 😀. Çileklisi iyi gibi duruyor da yeşil çaylısı hakkında şüphelerim var 🙂. Güzel mi tatları? .#amerikadadondurma #amerikadatatlı #amerikadatraderjoes #amerikadagf #amerikadamochi'
+  },
+  {
+    'name': 'Strawberry Fruit Spread',
+    'category': 'Jam and Spreads',
+    'description':
+        'Smuckers / Pankek, waffle, yoğurt, milkshake veya başka tatlılarda kullanılabilecek hazır çilek ve ahududu soslarından görsellerdeki iki ürünün içeriği uygun. Diğer çeşitlerinde içerikler daha katkılı ve belirsiz maalesef.İkisi de Walmart’ta ama Smucker’s Target gibi başka marketlerde de oluyor. . #amerikadakahvaltılık #amerikadasos #amerikadakek #amerikadatatlı'
+  },
+  {
+    'name': 'Raspberry Fruit Syrup',
+    'category': 'Jam and Spreads',
+    'description':
+        'Great Value / Pankek, waffle, yoğurt, milkshake veya başka tatlılarda kullanılabilecek hazır çilek ve ahududu soslarından görsellerdeki iki ürünün içeriği uygun. Diğer çeşitlerinde içerikler daha katkılı ve belirsiz maalesef.İkisi de Walmart’ta ama Smucker’s Target gibi başka marketlerde de oluyor. . #amerikadakahvaltılık #amerikadasos #amerikadakek #amerikadatatlı'
+  },
+  {
+    'name': 'Non Pareil Sprinkles',
+    'category': 'Baking Ingredients',
+    'description':
+        'Great Value / @tkturel hanım Walmart’ta görüp aldığı beyaz pasta süslerini paylaştı. Ben de dün Walmart’ta süslere baktım biraz. Yine beyaz olan ince uzun bir çeşit daha vardı içerik açısından uygun (fotoğrafı yok). Diğer renklerde hep şellak kullanılmıştı. Bir de pasta üstü yazılar yazmak için alfabe dekorlarında içeriği uygun olanları paylaşayım dedim. Bence çok yenilmeye değer bir özellikleri yok. Sonrasında yenmeden çöpe atılabilir ama çocuklar bu tür şeyleri yemeye hevesli oluyor. Paylaştığınız için teşekkürler💐. .#amerikadapastasüsü #amerikadapasta #amerikadakek #amerikadakurabiye'
+  },
+  {
+    'name': 'Sparkling White Sugar',
+    'category': 'Baking Ingredients',
+    'description':
+        'Dallies / @tkturel hanım Walmart’ta görüp aldığı beyaz pasta süslerini paylaştı. Ben de dün Walmart’ta süslere baktım biraz. Yine beyaz olan ince uzun bir çeşit daha vardı içerik açısından uygun (fotoğrafı yok). Diğer renklerde hep şellak kullanılmıştı. Bir de pasta üstü yazılar yazmak için alfabe dekorlarında içeriği uygun olanları paylaşayım dedim. Bence çok yenilmeye değer bir özellikleri yok. Sonrasında yenmeden çöpe atılabilir ama çocuklar bu tür şeyleri yemeye hevesli oluyor. Paylaştığınız için teşekkürler💐. .#amerikadapastasüsü #amerikadapasta #amerikadakek #amerikadakurabiye'
+  },
+  {
+    'name': 'Cake Decor Happy Birthday Starts',
+    'category': 'Baking Ingredients',
+    'description':
+        'Great Value / @tkturel hanım Walmart’ta görüp aldığı beyaz pasta süslerini paylaştı. Ben de dün Walmart’ta süslere baktım biraz. Yine beyaz olan ince uzun bir çeşit daha vardı içerik açısından uygun (fotoğrafı yok). Diğer renklerde hep şellak kullanılmıştı. Bir de pasta üstü yazılar yazmak için alfabe dekorlarında içeriği uygun olanları paylaşayım dedim. Bence çok yenilmeye değer bir özellikleri yok. Sonrasında yenmeden çöpe atılabilir ama çocuklar bu tür şeyleri yemeye hevesli oluyor. Paylaştığınız için teşekkürler💐. .#amerikadapastasüsü #amerikadapasta #amerikadakek #amerikadakurabiye'
+  },
+  {
+    'name': 'Cake Decor Alphabet',
+    'category': 'Baking Ingredients',
+    'description':
+        'Great Value / @tkturel hanım Walmart’ta görüp aldığı beyaz pasta süslerini paylaştı. Ben de dün Walmart’ta süslere baktım biraz. Yine beyaz olan ince uzun bir çeşit daha vardı içerik açısından uygun (fotoğrafı yok). Diğer renklerde hep şellak kullanılmıştı. Bir de pasta üstü yazılar yazmak için alfabe dekorlarında içeriği uygun olanları paylaşayım dedim. Bence çok yenilmeye değer bir özellikleri yok. Sonrasında yenmeden çöpe atılabilir ama çocuklar bu tür şeyleri yemeye hevesli oluyor. Paylaştığınız için teşekkürler💐. .#amerikadapastasüsü #amerikadapasta #amerikadakek #amerikadakurabiye'
+  },
+  {
+    'name': 'Food Coloring',
+    'category': 'Baking Ingredients',
+    'description':
+        'Hepsi Helal / Color Kitchen Foods markasının sayfasından tüm boyalarını inceledim. Bazı renkler extract olarak elde edilmiş. Onları sordum, işlemde alkol kullanılmıyormuş. Her yerde bulunmuyor. Hangi marketlerde satıldığını bulmak için internet sayfalarından ilgili linki tıklarsanız eyalet eyalet listelemişler satıldıkları marketleri (http://www.colorkitchenfoods.com/stores). Onun dışında online olarak web sayfalarından veya amazon gibi online marketlerden temin edebilirsiniz👍🏻. #amerikadagıdaboyası #amerikadapasta #amerikadawholefoods'
+  },
+  {
+    'name': 'Lady Fingers Savoiardi',
+    'category': 'Baking Ingredients',
+    'description':
+        'Supremo Italiano / Restaurant Depot’da satılan tiramisu için lady fingerlardaki flavor içinde muhtemel alkolü ve hayvansal katkıları sorgulamıştım. Alkol olmadığına ve vejeteryan olduğuna dair cevap geldi. Afiyet olsun.#amerikadaresdepot #amerikadatatlı #amerikadatiramisu #amerikadakedidili'
+  },
+  {
+    'name': 'Fast Rising Yeast',
+    'category': 'Baking Ingredients',
+    'description':
+        'Bakers Corner / @safiyebahar hanım Aldi’den tek kullanımlık pakette kuru maya paylaştı. Türkiye’de üretiliyormuş meğer. Aldi’de görmüş ama incelememiştim. Kosher. Paylaştığınız için teşekkürler💐. .Aldi marketlerindeki paylaşımlarına #amerikadaaldi hastagini tıklayarak ulaşabilirsiniz. .#amerikadamaya #amerikadahamur'
+  },
+  {
+    'name': 'Aged White Cheddar',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Pirates Booty / Pirate’s Booty cips çeşitlerinin natural flavor içeriğinde alkol yokmuş. Cheddar peynirlisinse kullanılan enzim microbial yani bakterilerle elde ediliyor. Hepsi kosherli. Walmart, Target bulabileceğiniz marketlerden.#amerikadacips #amerikadaatıştırmalık #amerikadatarget #amerikadawalmart #amerikadaresdepot #amerikadagf #amerikadacostco #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Fig Bites',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Trader Joes / @safiyebahar hanım Trader Joe’sta satılan Türk inciri dolgulu bisküviyi sormuş. Ürünün içeriklerinde alkol olmadığını yazmışlar. Trader Joe’s aylardır sorulara cevap vermiyordu. Sonunda cevaplar gelmeye başlamış anlaşılan. 🥳 Paylaştığınız için teşekkürler💐. .#amerikadatraderjoes #amerikadaatıştırmalık #amerikadabisküvi #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Coconut Clusters with organic super seeds',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Marka Yazmiyor / @slhailk hanım Costco’da bu hindistan cevizli atıştırmalığı denemiş ve beğenmiş. Organik, kosher. Paylaştığınız için teşekkürler💐. .#amerikadacostco #amerikadaatıştırmalık #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Sliced Havarti Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Trader Joes / @miramammad hanım Trader Joe’stan microbial enzimli dilim havarti ve çubuk mozzarella peyniri paylaştı. Teşekkürler💐. .#amerikadapeynir #amerikadatraderjoes'
+  },
+  {
+    'name': 'Organic String Cheese',
+    'category': 'Dairy Products',
+    'description':
+        'Trader Joes / @miramammad hanım Trader Joe’stan microbial enzimli dilim havarti ve çubuk mozzarella peyniri paylaştı. Teşekkürler💐. .#amerikadapeynir #amerikadatraderjoes'
+  },
+  {
+    'name': 'French Lavender',
+    'category': 'Other',
+    'description':
+        'Isle De France / @aysegzck hanım Burlington ve HEB marketlerinden aldığı bitkisel sıvı el sabunlarını paylaştı. Teşekkürler💐. .#amerikadasabun #amerikadakişiselbakım #amerikadatemizlik'
+  },
+  {
+    'name': 'French Lavender',
+    'category': 'Other',
+    'description':
+        'Isle De France / @aysegzck hanım Burlington ve HEB marketlerinden aldığı bitkisel sıvı el sabunlarını paylaştı. Teşekkürler💐. .#amerikadasabun #amerikadakişiselbakım #amerikadatemizlik'
+  },
+  {
+    'name': 'Pure Coconut with olive and argan oils',
+    'category': 'Food',
+    'description':
+        'Ala Maison / @aysegzck hanım Burlington ve HEB marketlerinden aldığı bitkisel sıvı el sabunlarını paylaştı. Teşekkürler💐. .#amerikadasabun #amerikadakişiselbakım #amerikadatemizlik'
+  },
+  {
+    'name': 'Pepperoncini',
+    'category': 'Pickle and Olives',
+    'description':
+        'Supremo Italiano / @alplerinmutfagi Restaurant Depot’dan Türk malı acı biber turşusu ve kuskus paylaştı. Teşekkürler💐. .#amerikadaresdepot #amerikadaturşu #amerikadabiber'
+  },
+  {
+    'name': 'Hibiscus Flowers',
+    'category': 'Spices and Herbs',
+    'description':
+        'Jamaica / @alplerinmutfagi Restaurant Depot’dan kuru hibiskus çiçeği paylaştı. Ramazan yaklaşırken şerbet hazırlamak isteyenlere fikir olsun. Paylaştığınız için teşekkürler💐. .#amerikadaresdepot #amerikadabitkiçayı #amerikadahibiskus'
+  },
+  {
+    'name': 'Wild Alaskan Chum Salmon',
+    'category': 'Seafood',
+    'description':
+        'Best Seafood Inc / @alplerinmutfagi Restaurant Depot’dan aldığı somon balığını paylaştı. Bu şekilde çok daha uyguna geliyormuş. Paylaştığınız için teşekkürler💐. .#amerikadaresdepot #amerikadabalık'
+  },
+  {
+    'name': 'Halal Chicken',
+    'category': 'Meat and Poultry',
+    'description':
+        'Noor Al Jabal / @alplerinmutfagi Restaurant Depot’dan kemiksiz tavuk but paylaştı. İçerisinde çok fazla olduğu için kilitli poşetlere porsiyonluk koyup buzlukta saklıyormuş. Paylaştığınız için teşekkürler💐.Bu arada bahsi geçmişken fikrimi söyleyeyim. Restaurant Depot’daki helal et ve tavukları çok fazla soran oluyor. Hangisi tam olarak helaldir gibi birşey söyleyemem. Tavsiye olarak diyebilirimki üzerinde bir sertifika işareti görmeye çalışınız. Sadece “halal” yazan bir yazı “kime göre, neye göre” sorusunu sorduyor. Helal sertifikasını nereden aldığı belli olan et ve tavuklarda ise sertifikayı veren kurumun web sayfasına bakınız. Örneğin Halal Food Council USA görseldeki ürünü sertifikalamış. Bu kurumun internet sayfasına girip helallik şartlarını okuyunuz. Hayvanın kesim öncesi sersemletilmesi, sersemletilmemesi, elle kesim, makine kesimi gibi farklı konularda farklı görüşler var. Sizin görüşünüze uyup uymadığını aşağı yukarı anlayabilirsiniz. Eğer aklınıza takılan yerler olursa, ilgili kurumla iletişime geçip içinize sininceye kadar soruşturmanızı devam ettirebilirsiniz. Helal sertifikası veren çok fazla firma yok zaten. Bu noktadan ötesi kişilerin kendi tercihine kalmış💐. .#amerikadaresdepot #amerikadahelal #amerikadatavuk #amerikadahelalet'
+  },
+  {
+    'name': 'Lentil Turmeric with Turmeric',
+    'category': 'Snacks and Nuts',
+    'description':
+        'RW Garcia / @gulays_cakedesign Costco’da satılan bu krakerleri paylaştı. Tadı Doritos’u andırıyormuş ve içerisindeki herşey doğal ve organik👍🏻. Paylaştığınız için teşekkürler💐.#amerikadacostco #amerikadaatıştırmalık #amerikadakraker #abdbeslenmeçantasına #amerikadacips'
+  },
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
