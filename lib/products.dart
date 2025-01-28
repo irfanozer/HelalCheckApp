@@ -1801,25 +1801,132 @@ final List<Map<String, String>> products = [
     'description':
         'RW Garcia / @gulays_cakedesign Costco’da satılan bu krakerleri paylaştı. Tadı Doritos’u andırıyormuş ve içerisindeki herşey doğal ve organik👍🏻. Paylaştığınız için teşekkürler💐.#amerikadacostco #amerikadaatıştırmalık #amerikadakraker #abdbeslenmeçantasına #amerikadacips'
   },
-  {'name': 'Product', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
+  {
+    'name': 'Waffle Cones',
+    'category': 'Ice Cream',
+    'description':
+        'Keebler / @duman.azize hanım uygun içerikli külah gönderdi. Diğer çeşitlere dikkat etmek gerekiyor. Flavor veya vanilla extract içerebiliyorlar. Paylaştığınız için teşekkürler💐. .#amerikadadondurma #amerikadawalmart #amerikadatarget #amerikadakülah'
+  },
+  {
+    'name': 'Frosty Flakes',
+    'category': 'Grains and Cereals',
+    'description':
+        'Simply Balanced / @haticetomak hanım Target marketinin Simply Balanced marka organik mısır gevreğini paylaştı. Mısırlarda genelde gdo problemi oluyor. Organik ürünler aynı zamanda gdolu olamadığı için bu da güzel bir alternatif olmuş oldu. Paylaştığınız için teşekkürler💐.#amerikadacereal #amerikadakahvaltılık #amerikadaatıştırmalık #abdbeslenmeçantasına #amerikadatarget'
+  },
+  {
+    'name': 'Organic Ketchup',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Natures Place / Food Lion’cılar var mı? Orada uygun fiyata uygun ve organik içerikli ketçap varmış👍🏻. Alternatifleri artırmak adına ekliyorum.#amerikadaketçap #amerikadafoodlion #amerikadahamburger #amerikadaköfte.'
+  },
+  {
+    'name': 'Crunchy Chocolate Sprinkles',
+    'category': 'Baking Ingredients',
+    'description':
+        'Betty Choker / Çikolata taneciği pasta süslerinden içeriği uygun (sağlıksız yapay boyalar hariç) pasta süsü varmış. Betty Crocker’ın sadece bu süsü uygun. Diğerlerinde şellak var. Başka çeşitleri varsa, henüz bilmiyorum. Food Lion’dan.#amerikadapastasüsü #amerikadafoodlion #amerikadapasta #amerikadaçikolata'
+  },
+  {
+    'name': 'Lemonade',
+    'category': 'Juices',
+    'description':
+        'Food Lion / Food Lion’da katkısız limonata varmış. Almadığım için tadını henüz bilmiyorum🙂. .#amerikadaiçecek #amerikadameyvesuyu #amerikadafoodlion'
+  },
+  {
+    'name': 'Soy Sauce (Regular and Lite)',
+    'category': 'Sauces and Condiments',
+    'description':
+        'La choy / Soya sosları “naturally brewed” olduğunda 2%’den fazla alkol içeriyor. Bu nedenle Muslim consumer groupta naturally brewed yerine “hydrolyzed soy protein” içerenlerin uygun olacağını yazmışlar. La Choy markasının soya sosu örnek olarak görünüyordu ama ilk kez gözüme ilişti Food Lion’da. 3 çeşidi vardı. Fotoğraftaki ikisinin içeriğinde natural flavor yoktu. Daha önce bir takipçim soğan salatasını soya sosuyla hazırladığını yazmıştı. Meraktayım o gün bu gündür😅.#amerikadasoyasosu #amerikadafoodlion #amerikadawalmart'
+  },
+  {
+    'name': 'Peanut Oil',
+    'category': 'Oils and Fats',
+    'description':
+        'Food Lion / Kızartma için hangi yağı kullanıyorsunuz? Çok uzun zamandır yemeklerde sadece tereyağı ve zeytin yağı kullanıyorum. Kızartma çok yapmıyorum ama yapınca da yağını tekrar tekrar kullanmıyorum, döküyorum. Zeytinyağı ziyan oluyormuş gibi geliyor. Google’dan bakındım biraz, kızartma için yüksek sıcaklıkta yanmayan ilk yağ olarak yerfıstığı yağı görünüyor. Alsam mı? .#amerikadayağ #amerikadafoodlion'
+  },
+  {
+    'name': 'Peanut Oil',
+    'category': 'Oils and Fats',
+    'description':
+        'LouAna/ Kızartma için hangi yağı kullanıyorsunuz? Çok uzun zamandır yemeklerde sadece tereyağı ve zeytin yağı kullanıyorum. Kızartma çok yapmıyorum ama yapınca da yağını tekrar tekrar kullanmıyorum, döküyorum. Zeytinyağı ziyan oluyormuş gibi geliyor. Google’dan bakındım biraz, kızartma için yüksek sıcaklıkta yanmayan ilk yağ olarak yerfıstığı yağı görünüyor. Alsam mı? .#amerikadayağ #amerikadafoodlion'
+  },
+  {
+    'name': 'Waves',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Cape Cod / Kettle Cooked, Reduced Fat, Sea Salt, Sea Salt&vinegar / Cape Cod cipslerinden kosherli ve içeriği sade olanları var. 👍🏻#amerikadacips #amerikadaatıştırmalık'
+  },
+  {
+    'name': 'Potato Chips',
+    'category': 'Snacks and Nuts',
+    'description':
+        'UTZ / Kettle Classic, Original / Utz’ın da sade içerikli patates cipsleri var. Kızartma yağları farklı. Kosherli.#amerikadacips #amerikadagf #amerikadaatıştırmalık '
+  },
+  {
+    'name': 'Imported Giardiniera',
+    'category': 'Pickle and Olives',
+    'description':
+        'Supremo Italiano / @gulunbahcesii hanım Restaurant Depot’tan karışık turşu paylaştı. Türkiye’de üretilmiş. Paylaştığınız için teşekkürler💐. .#amerikadaturşu #amerikadaresdepot'
+  },
+  {
+    'name': 'Ritz Crackers',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Roasted Vegetable, Peanut Butter, Everything, Whole Wheat / Ritz krakerlerinden içeriği uygun olanları var. Denk geldiklerimi ekledim. High fructose corn syrup içerenleri var. Dikkat edenler için belirtmiş olayım. .#amerikadakraker #amerikadaatıştırmalık #amerikadabisküvi #amerikadawalmart #amerikadatarget #amerikadafoodlion'
+  },
+  {
+    'name': 'Reeses',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Peanut Butter Cups, Peanut butter Cups minis / Reese’s yerfıstıklı çikolatalarının da içeriği uygun çeşitleri var. TBHQ bir çeşit koruyucu madde. Raf ömrü kazandırıyor. Sağlıksız olduğuna dair yazılar var internette. .#amerikadaçikolata #amerikadaatıştırmalık #amerikadagf '
+  },
+  {
+    'name': 'Millville Cereal',
+    'category': 'Grains and Cereals',
+    'description':
+        'Honey Wheat Puffs, Frosted Flakes, Crispy Oats, Raisin Bran, Bran Flakes, Rice Squares, Corn Squares, Corn Flakes, Crispy Rice/ Aldi’deki Millville marka cerealları inceledim. Öncelikle hepsi kosherli. Çoğunda flavor gibi belirsiz içerik yok. Onlardan gözüme çarpanlarının fotoğraflarını ekledim. Diğer marketlerde satılan bilindik marka cerealların taklidi. İçerik olarak fazla malzeme yok esasında. Asıl katkılar, vitamin ve mineral takviyesi olarak eklenenler. Barşey maşt extract/malt extract su ile elde ediliyor👍🏻. Benim gönlümün organik ve içeriği belirli olanlardan yana olduğunu tekrar belirteyim.#amerikadacereal #amerikadakahvaltılık #amerikadaaldi'
+  },
+  {
+    'name': 'Costco Bakery Section',
+    'category': 'Bread and Bakery',
+    'description':
+        'Kirkland / Çok şükür ki sonunda Costco Bakery reyonu için genel bir cevap veren birini buldum. Bundan öncekiler hep ürün kodu istiyordu. Costco’da pişirilip satılan fırın ürünlerinde süt, tereyağı ve yumurta dışında hayvansal içerik yok. Fakat bazı ürünlerde gelatin varmış, o da içerik kısmında yazıyormuş‼️Jelatini muhtemelen pastalarda kullanıyorlar (tiramisuda ve trileçede domuz jelatini varmış!!) , içeriklere göz atmakta fayda var almadan önce. Enzimler ve L-cysteine bitkisel veya sentetik kökenliymiş 🥳. ❓Bir de pasta ve kurabiye gibi ekmek ve bagel dışındaki fırın ürünlerinde natural&artificial flavor, vanilla extract gibi katkılar olabiliyor. Alkolün taşıyıcı olarak flavor içerisinde bazen kullanıldığını yazmıştı, ama ekran görüntüsünü alamadım o kısmın maalesef. Bu yazılanlar tüm Costco bakery yerleri ve ürünleri için geçerli. Costco’da satılan diğer perakende ekmekler ve hamur işleriyle karıştırılmasın lütfen. .#amerikadacostco #amerikadaekmek #amerikadabagel #amerikadahamur #amerikadacostcoekmeği #amerikadacostcobakery'
+  },
+  {
+    'name': 'Costco Bakery Bread',
+    'category': 'Bread and Bakery',
+    'description':
+        'Kirkland / Multigrain, Country French / Bir önceki Costco bakery paylaşımı sonrası elimde görselleri kalan ekmekleri de paylaşayım. Bu ekmeklerin içinde de jelatin veya flavor tarzı katkılar yok. Kalan malzemeler bitkisel kökenli👍🏻. Afiyet olsun.#amerikadacostco #amerikadaekmek'
+  },
+  {
+    'name': 'Smuckers Toppings / Sauces',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Hot Fudge, Sundae Syrup / Smucker’s firmasının çok çeşitli pasta, dondurma sosları var. Kimisinde flavor gibi alkol içerebilecek katkılar var kimisinde yok. İlk 2 ürün yine flavor veya başka alkol bazlı içeriğe sahip olmayanlardan (sağlıklı olduklarını iddia etmiyorum). Bir tane de çilekli çeşidini paylaşmıştım az aşağıda. Başka çilek sosları da var ama onlarda flavor var örneğin. İşte bu flavorı sordum yine. Bazı içeriklerin alkol içerebileceğini söylemişler. Flavor, vanilla, carrageenan (varsa) potansiyel alkol içerebileceklerden. Pectini ise alkolle elde etmediklerini yazmışlardı. Marmelatlarına bakmadım ama eğer onlarda da bu katkılar varsa bu durum onlar için de geçerli. Tüm Smucker’s ürünlerine bu nazarla yaklaşabilirsiniz alkol konusunda hassasiyetiniz varsa.#amerikadasos #amerikadatatlı #amerikadareçel #amerikadapasta #amerikadaçikolata #amerikadaçikolatasosu'
+  },
+  {
+    'name': 'The Rice One Simply Salt',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Good Thins / Glutensiz seçeneklerden Good Thins’in şu iki modeli sade içerikliymiş👍🏻. Diğer çeşitlerinde flavor vardı. .#amerikadaatıştırmalık #amerikadakraker #amerikadagf #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'The Rice One Veggie Blend',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Good Thins / Glutensiz seçeneklerden Good Thins’in şu iki modeli sade içerikliymiş👍🏻. Diğer çeşitlerinde flavor vardı. .#amerikadaatıştırmalık #amerikadakraker #amerikadagf #abdbeslenmeçantasına'
+  },
+  {
+    'name': 'Toasty Sandwich Crackers',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Lance / Peanut Butter, Whole Grain, Toast Chee peanut butter / Lance firmasının yerfıstığı ezmesi dolgulu sandviç krakerlerden flavor içermeyenlerini ekledim. Sonuncu üründe Turuncu rengi vermek için yapay gıda boyası eklenmiş. Sağlıklı değil. Hepsi kosherli. Son ürün içindeki peynirin enzim kökenini, ürün süt içerdiği için, artık tahmin edebiliyorsunuzdur; hayvansal kökenli olamaz kosher olduğu için. .#amerikadakraker #amerikadaatıştırmalık #amerikadabisküvi #abdbeslenmeçantasına #amerikadawalmart #amerikadatarget'
+  },
+  {
+    'name': 'Tcho Chocolate',
+    'category': 'Chocolate',
+    'description':
+        'Banana Nut, Mint Chip gelato, 70% Dark Chocolate, Triple Berry, Almond+sea salt, Coconut Crisp, Extra Dark / Giant, Stop&Shop ve Walmart marketlerinde satılan TCHO organik çikolatalarından süt içerenlerde vanilla ve/veya natural flavor oluyor. Onlarda alkol varmış. Sütsüz, vanilla bean içerenlerde alkol yokmuş. Vanilla ve/veya natural flavor içermeyen çeşitlerin görsellerini ekledim👍🏻. .Bu bilgiler sadece TCHO çikolataları için geçerli. Sonra birileri “vanilla beanler alkolsüz oluyormuş” genellemesine girebiliyor, girmeyin lütfen.#amerikadaçikolata #amerikadawalmart'
+  },
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
