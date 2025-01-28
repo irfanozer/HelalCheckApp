@@ -1927,7 +1927,7 @@ final List<Map<String, String>> products = [
     'description':
         'Banana Nut, Mint Chip gelato, 70% Dark Chocolate, Triple Berry, Almond+sea salt, Coconut Crisp, Extra Dark / Giant, Stop&Shop ve Walmart marketlerinde satılan TCHO organik çikolatalarından süt içerenlerde vanilla ve/veya natural flavor oluyor. Onlarda alkol varmış. Sütsüz, vanilla bean içerenlerde alkol yokmuş. Vanilla ve/veya natural flavor içermeyen çeşitlerin görsellerini ekledim👍🏻. .Bu bilgiler sadece TCHO çikolataları için geçerli. Sonra birileri “vanilla beanler alkolsüz oluyormuş” genellemesine girebiliyor, girmeyin lütfen.#amerikadaçikolata #amerikadawalmart'
   },
-  {'name': 'A', 'category': 'Food', 'description': ''},
+  {'name': 'Aaaaa', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
