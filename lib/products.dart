@@ -1927,14 +1927,156 @@ final List<Map<String, String>> products = [
     'description':
         'Banana Nut, Mint Chip gelato, 70% Dark Chocolate, Triple Berry, Almond+sea salt, Coconut Crisp, Extra Dark / Giant, Stop&Shop ve Walmart marketlerinde satılan TCHO organik çikolatalarından süt içerenlerde vanilla ve/veya natural flavor oluyor. Onlarda alkol varmış. Sütsüz, vanilla bean içerenlerde alkol yokmuş. Vanilla ve/veya natural flavor içermeyen çeşitlerin görsellerini ekledim👍🏻. .Bu bilgiler sadece TCHO çikolataları için geçerli. Sonra birileri “vanilla beanler alkolsüz oluyormuş” genellemesine girebiliyor, girmeyin lütfen.#amerikadaçikolata #amerikadawalmart'
   },
-  {'name': 'Aaaaa', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
-  {'name': 'A', 'category': 'Food', 'description': ''},
+  {
+    'name': 'SuperFood Puffs',
+    'category': 'Snacks and Nuts',
+    'description':
+        'Organics Happy Baby / Apple&broccoli, Kale&Spinach, Strawberry&Beet, Sweet potato&Carrot, Banana&Pumpkin / Ek gıdaya geçen bebekler için Happy Baby markasını öneririm. Bu markanın hiçbir çeşidinde flavor tarzı içeriği belirsiz bir katkı göremedim. Tüm ürünler Organik ve kosher. Özellikle Puff denen cereal tarzı atıştırmalıkta sadece bu marka flavor içermiyor. Bunlardan aldım ben de. Karın doyurmak için değil tabi. Ellerini kullanabilip motor becerisini geliştirmek için “dişsiz kahramanlar”ın ağzına götürebileceği, ağızda dağılan ideal atıştırmalıklar. Dışarıda, olmadık yerlerde yapılan mızmızları kesen ideal susturucu aynı zamanda🙈. Her cerealdaki gibi vitamin ve mineral takviyesi bulunuyor. (Mixed tocopherol denen şey E vitamini. Sayfalarında tüm mixed tocopherolları bitkisel yağlardan elde ettiklerini yazmışlar. Pufftaki ayçiçek yağındanmış örneğin. ) Flavor içermediği için damağa hitap etmiyor pek ve beyinde “daha fazla ye” uyarısı oluşturmuyor (flavorların görevi hem tadı güzelleştirmek hem de beyine doyumsuzluk hissi verdirmek) Bu nedenle Puffların tadı diğerler markalara göre güzel değil. Ama benim çocuklarım buna rağmen severek yedi. Yine paketli meyve püreleri de (Happy Tot) dışarıda ideal atıştırmalık oluyor çocuklar için. Birçok markette bulunuyor. .#amerikadacereal #amerikadabebek #amerikadaçocuk #abdbeslenmeçantasına #amerikadatarget #amerikadawalmart #amerikadameyvepüresi #amerikadabebekürünü'
+  },
+  {
+    'name': 'SuperFood',
+    'category': 'Drinks(no category)',
+    'description':
+        'Organics Happy Baby / Apple&Pumpkin&Carrot, Apple&Kale&Avocado, Banana&Raspberry&Oat, (Isimleri gozukmeyen 3 cesit daha var) / Ek gıdaya geçen bebekler için Happy Baby markasını öneririm. Bu markanın hiçbir çeşidinde flavor tarzı içeriği belirsiz bir katkı göremedim. Tüm ürünler Organik ve kosher. Özellikle Puff denen cereal tarzı atıştırmalıkta sadece bu marka flavor içermiyor. Bunlardan aldım ben de. Karın doyurmak için değil tabi. Ellerini kullanabilip motor becerisini geliştirmek için “dişsiz kahramanlar”ın ağzına götürebileceği, ağızda dağılan ideal atıştırmalıklar. Dışarıda, olmadık yerlerde yapılan mızmızları kesen ideal susturucu aynı zamanda🙈. Her cerealdaki gibi vitamin ve mineral takviyesi bulunuyor. (Mixed tocopherol denen şey E vitamini. Sayfalarında tüm mixed tocopherolları bitkisel yağlardan elde ettiklerini yazmışlar. Pufftaki ayçiçek yağındanmış örneğin. ) Flavor içermediği için damağa hitap etmiyor pek ve beyinde “daha fazla ye” uyarısı oluşturmuyor (flavorların görevi hem tadı güzelleştirmek hem de beyine doyumsuzluk hissi verdirmek) Bu nedenle Puffların tadı diğerler markalara göre güzel değil. Ama benim çocuklarım buna rağmen severek yedi. Yine paketli meyve püreleri de (Happy Tot) dışarıda ideal atıştırmalık oluyor çocuklar için. Birçok markette bulunuyor. .#amerikadacereal #amerikadabebek #amerikadaçocuk #abdbeslenmeçantasına #amerikadatarget #amerikadawalmart #amerikadameyvepüresi #amerikadabebekürünü'
+  },
+  {
+    'name': 'Baby Food / Spread(?)',
+    'category': 'Jam and Spreads',
+    'description':
+        'Organics Happy Baby /  Apple&Oats&Cinnamon, Apples&Blueberries, Pears&Kale, Banana&Strawberry, Pears&Mango&Spinach, Sweet Potatoes / Ek gıdaya geçen bebekler için Happy Baby markasını öneririm. Bu markanın hiçbir çeşidinde flavor tarzı içeriği belirsiz bir katkı göremedim. Tüm ürünler Organik ve kosher. Özellikle Puff denen cereal tarzı atıştırmalıkta sadece bu marka flavor içermiyor. Bunlardan aldım ben de. Karın doyurmak için değil tabi. Ellerini kullanabilip motor becerisini geliştirmek için “dişsiz kahramanlar”ın ağzına götürebileceği, ağızda dağılan ideal atıştırmalıklar. Dışarıda, olmadık yerlerde yapılan mızmızları kesen ideal susturucu aynı zamanda🙈. Her cerealdaki gibi vitamin ve mineral takviyesi bulunuyor. (Mixed tocopherol denen şey E vitamini. Sayfalarında tüm mixed tocopherolları bitkisel yağlardan elde ettiklerini yazmışlar. Pufftaki ayçiçek yağındanmış örneğin. ) Flavor içermediği için damağa hitap etmiyor pek ve beyinde “daha fazla ye” uyarısı oluşturmuyor (flavorların görevi hem tadı güzelleştirmek hem de beyine doyumsuzluk hissi verdirmek) Bu nedenle Puffların tadı diğerler markalara göre güzel değil. Ama benim çocuklarım buna rağmen severek yedi. Yine paketli meyve püreleri de (Happy Tot) dışarıda ideal atıştırmalık oluyor çocuklar için. Birçok markette bulunuyor. .#amerikadacereal #amerikadabebek #amerikadaçocuk #abdbeslenmeçantasına #amerikadatarget #amerikadawalmart #amerikadameyvepüresi #amerikadabebekürünü'
+  },
+  {
+    'name': 'Black Cherry Juice',
+    'category': 'Juices',
+    'description':
+        'Great Value / Walmart, Türkiye’den organik meyve suları getiriyormuş. Yeni gördüm🙈. Black cherry acaba kiraz mıdır vişne mi😅Üretici bilgisi: kirazmış😀 #amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek #amerikadavişne'
+  },
+  {
+    'name': 'Pomegranate Juice',
+    'category': 'Juices',
+    'description':
+        'Great Value / Walmart, Türkiye’den organik meyve suları getiriyormuş. Yeni gördüm🙈. Black cherry acaba kiraz mıdır vişne mi😅Üretici bilgisi: kirazmış😀 #amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek #amerikadavişne'
+  },
+  {
+    'name': 'Red Beet Juice',
+    'category': 'Juices',
+    'description':
+        'Great Value / Walmart, Türkiye’den organik meyve suları getiriyormuş. Yeni gördüm🙈. Black cherry acaba kiraz mıdır vişne mi😅Üretici bilgisi: kirazmış😀 #amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek #amerikadavişne'
+  },
+  {
+    'name': 'Cranberry Juice',
+    'category': 'Juices',
+    'description':
+        'Great Value / Walmart, Türkiye’den organik meyve suları getiriyormuş. Yeni gördüm🙈. Black cherry acaba kiraz mıdır vişne mi😅Üretici bilgisi: kirazmış😀 #amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek #amerikadavişne'
+  },
+  {
+    'name': 'Just Concord ',
+    'category': 'Juices',
+    'description':
+        'RW Knudsen / Walmart’ta organik meyve suyu olarak R.W. Knudsen markasınında değişik alternatifleri var. Şahsen ananas suyunu ilk kez gördüm 🙈. .Ürünler kosher değil. Bu nedenle olabilecek hayvansal işlem yardımcılarını sordum. Firmanın cevabına göre yok. Şöyle: .Thanks for contacting us regarding R.W. Knudsen Family®. We greatly appreciate your interest in our products.In response to your inquiry, we can confirm our products do not contain any ingredients derived from animal products or by-products. While not formally certified as vegan/vegetarian, we believe our R.W. Knudsen Family® products would be suitable for a vegan/vegetarian lifestyle.If you have any additional questions, feel free to visit us at rwknudsenfamily.com or give us a call at 888-569-6993.Best Regards, .#amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek'
+  },
+  {
+    'name': 'Carrot Juice',
+    'category': 'Juices',
+    'description':
+        'RW Knudsen / Walmart’ta organik meyve suyu olarak R.W. Knudsen markasınında değişik alternatifleri var. Şahsen ananas suyunu ilk kez gördüm 🙈. .Ürünler kosher değil. Bu nedenle olabilecek hayvansal işlem yardımcılarını sordum. Firmanın cevabına göre yok. Şöyle: .Thanks for contacting us regarding R.W. Knudsen Family®. We greatly appreciate your interest in our products.In response to your inquiry, we can confirm our products do not contain any ingredients derived from animal products or by-products. While not formally certified as vegan/vegetarian, we believe our R.W. Knudsen Family® products would be suitable for a vegan/vegetarian lifestyle.If you have any additional questions, feel free to visit us at rwknudsenfamily.com or give us a call at 888-569-6993.Best Regards, .#amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek'
+  },
+  {
+    'name': 'Just Pomegranate ',
+    'category': 'Juices',
+    'description':
+        'RW Knudsen / Walmart’ta organik meyve suyu olarak R.W. Knudsen markasınında değişik alternatifleri var. Şahsen ananas suyunu ilk kez gördüm 🙈. .Ürünler kosher değil. Bu nedenle olabilecek hayvansal işlem yardımcılarını sordum. Firmanın cevabına göre yok. Şöyle: .Thanks for contacting us regarding R.W. Knudsen Family®. We greatly appreciate your interest in our products.In response to your inquiry, we can confirm our products do not contain any ingredients derived from animal products or by-products. While not formally certified as vegan/vegetarian, we believe our R.W. Knudsen Family® products would be suitable for a vegan/vegetarian lifestyle.If you have any additional questions, feel free to visit us at rwknudsenfamily.com or give us a call at 888-569-6993.Best Regards, .#amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek'
+  },
+  {
+    'name': 'Just Pineapple ',
+    'category': 'Juices',
+    'description':
+        'RW Knudsen / Walmart’ta organik meyve suyu olarak R.W. Knudsen markasınında değişik alternatifleri var. Şahsen ananas suyunu ilk kez gördüm 🙈. .Ürünler kosher değil. Bu nedenle olabilecek hayvansal işlem yardımcılarını sordum. Firmanın cevabına göre yok. Şöyle: .Thanks for contacting us regarding R.W. Knudsen Family®. We greatly appreciate your interest in our products.In response to your inquiry, we can confirm our products do not contain any ingredients derived from animal products or by-products. While not formally certified as vegan/vegetarian, we believe our R.W. Knudsen Family® products would be suitable for a vegan/vegetarian lifestyle.If you have any additional questions, feel free to visit us at rwknudsenfamily.com or give us a call at 888-569-6993.Best Regards, .#amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek'
+  },
+  {
+    'name': 'Organic Apple',
+    'category': 'Juices',
+    'description':
+        'RW Knudsen / Walmart’ta organik meyve suyu olarak R.W. Knudsen markasınında değişik alternatifleri var. Şahsen ananas suyunu ilk kez gördüm 🙈. .Ürünler kosher değil. Bu nedenle olabilecek hayvansal işlem yardımcılarını sordum. Firmanın cevabına göre yok. Şöyle: .Thanks for contacting us regarding R.W. Knudsen Family®. We greatly appreciate your interest in our products.In response to your inquiry, we can confirm our products do not contain any ingredients derived from animal products or by-products. While not formally certified as vegan/vegetarian, we believe our R.W. Knudsen Family® products would be suitable for a vegan/vegetarian lifestyle.If you have any additional questions, feel free to visit us at rwknudsenfamily.com or give us a call at 888-569-6993.Best Regards, .#amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek'
+  },
+  {
+    'name': 'Organic Mayo',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Woodstock / MOM’sta organik, flavor içermeyen mayonezler var. Şu natural flavor bayağı yumurta tadını bastırıyormuş meğer😅. Flavorsız Sir Kensington markasından aldım. Yumurta tadı geliyor. Ketçapla dengeledim 👍🏻.#amerikadamoms #amerikadamayonez #amerikadagf #amerikadahamburger #amerikadaköfte'
+  },
+  {
+    'name': 'Spectrum Culinary With Extra Virgin Olive Oil',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Spectrum Culinary / MOM’sta organik, flavor içermeyen mayonezler var. Şu natural flavor bayağı yumurta tadını bastırıyormuş meğer😅. Flavorsız Sir Kensington markasından aldım. Yumurta tadı geliyor. Ketçapla dengeledim 👍🏻.#amerikadamoms #amerikadamayonez #amerikadagf #amerikadahamburger #amerikadaköfte'
+  },
+  {
+    'name': 'Spectrum Culinary Expeller Pressed Oil',
+    'category': 'Sauces and Condiments',
+    'description':
+        'Spectrum Culinary / MOM’sta organik, flavor içermeyen mayonezler var. Şu natural flavor bayağı yumurta tadını bastırıyormuş meğer😅. Flavorsız Sir Kensington markasından aldım. Yumurta tadı geliyor. Ketçapla dengeledim 👍🏻.#amerikadamoms #amerikadamayonez #amerikadagf #amerikadahamburger #amerikadaköfte'
+  },
+  {
+    'name': 'Salted Caramel In Chocolate Organic Coconut Bliss',
+    'category': 'Ice Cream',
+    'description':
+        'Goodpop / MOM’stan flavor, extract içermeyen dondurmalar... Bu markaların internet sayfalarından bakmak lazım nerelerde var diye. Başka organik marketlerde de bulunduklarını sanıyorum. .#amerikadadondurma #amerikadamoms #amerikadagf'
+  },
+  {
+    'name': 'Watermelon Agave',
+    'category': 'Ice Cream',
+    'description':
+        'Goodpop / MOM’stan flavor, extract içermeyen dondurmalar... Bu markaların internet sayfalarından bakmak lazım nerelerde var diye. Başka organik marketlerde de bulunduklarını sanıyorum. .#amerikadadondurma #amerikadamoms #amerikadagf'
+  },
+  {
+    'name': 'Strawberry Lemonade',
+    'category': 'Ice Cream',
+    'description':
+        'Goodpop / MOM’stan flavor, extract içermeyen dondurmalar... Bu markaların internet sayfalarından bakmak lazım nerelerde var diye. Başka organik marketlerde de bulunduklarını sanıyorum. .#amerikadadondurma #amerikadamoms #amerikadagf'
+  },
+  {
+    'name': 'Banana Cinnamon',
+    'category': 'Ice Cream',
+    'description':
+        'Goodpop / MOM’stan flavor, extract içermeyen dondurmalar... Bu markaların internet sayfalarından bakmak lazım nerelerde var diye. Başka organik marketlerde de bulunduklarını sanıyorum. .#amerikadadondurma #amerikadamoms #amerikadagf'
+  },
+  {
+    'name': 'Mango Organic Fruit Bars',
+    'category': 'Ice Cream',
+    'description':
+        'Natural Choice / MOM’stan flavor, extract içermeyen dondurmalar... Bu markaların internet sayfalarından bakmak lazım nerelerde var diye. Başka organik marketlerde de bulunduklarını sanıyorum. .#amerikadadondurma #amerikadamoms #amerikadagf'
+  },
+  {
+    'name': 'Banana Babies',
+    'category': 'Ice Cream',
+    'description':
+        'Dianas Bananas / Çikolata kaplı muz dondurmalarına da denk geldim MOM’sta. Daha önce Price Rite’tan bulup paylaştığımın fiyatı daha insaflıydı🙈. Yine de alternatif olarak paylaşmak istedim. .#amerikadadondurma #amerikadamoms'
+  },
+  {
+    'name': 'Unfiltered Apple Juice',
+    'category': 'Juices',
+    'description':
+        'Martinellis Gold Medal / Walmart’ta filtrelenmemiş (posalı) ve filtrelenmiş elma suları. Kosherliler. O nedenle jelatin ile filtreleme yapılmamıştır👍🏻. .Meyve sularının jelatin ile filtrelenmesi konusunu anlattığım posta ulaşmak için #meyvesuyufiltreleme hashtagini tıkayabilirsiniz. .#amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek'
+  },
+  {
+    'name': '100% Pure Apple Juice',
+    'category': 'Juices',
+    'description':
+        'Martinellis Gold Medal / Walmart’ta filtrelenmemiş (posalı) ve filtrelenmiş elma suları. Kosherliler. O nedenle jelatin ile filtreleme yapılmamıştır👍🏻. .Meyve sularının jelatin ile filtrelenmesi konusunu anlattığım posta ulaşmak için #meyvesuyufiltreleme hashtagini tıkayabilirsiniz. .#amerikadameyvesuyu #amerikadawalmart #amerikadaiçecek'
+  },
+  {
+    'name': 'Organic Fillo Dough',
+    'category': 'Baking Ingredients',
+    'description':
+        'The Fillo Bakery / Organik baklava yapmak isteyen hamaratlarımız elbette vardır. Sizi düşündüm inanın. Bir baklava yapsalar da yesek dedim😅. Organik işi aldı başını gitti. İyi bir gelişme tabi. Şu fillo factory piyasada egemen. Rakip olarak karşısına çıkmak gerek🤑. Organic turta hamuru varmış bir de. Organik gıda sektöründeki açıkları tek tek dolduruyorlar. 🥧 . MOM’s marketinden.#amerikadahamur #amerikadamoms'
+  },
+  {
+    'name': 'Organic Pie Dough',
+    'category': 'Baking Ingredients',
+    'description':
+        'Wholly Wholesome / Organik baklava yapmak isteyen hamaratlarımız elbette vardır. Sizi düşündüm inanın. Bir baklava yapsalar da yesek dedim😅. Organik işi aldı başını gitti. İyi bir gelişme tabi. Şu fillo factory piyasada egemen. Rakip olarak karşısına çıkmak gerek🤑. Organic turta hamuru varmış bir de. Organik gıda sektöründeki açıkları tek tek dolduruyorlar. 🥧 . MOM’s marketinden.#amerikadahamur #amerikadamoms'
+  },
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
   {'name': 'A', 'category': 'Food', 'description': ''},
